@@ -1,4 +1,4 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 //Creating a class with name as MultipleOfNumber
 public class MultipleOfNumber{
 public static void main(String[]args){
