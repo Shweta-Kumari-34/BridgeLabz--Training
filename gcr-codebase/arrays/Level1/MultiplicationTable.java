@@ -12,10 +12,10 @@ for( int i=6; i <=9; i++){
 result[index]=number * i ;
 index++;
 }
-int index =0;
+int counter =0;
 for( int i=6; i <=9; i++){
-System.out.println(number + " * i " +i + " = " + result[index] );
-index++;
+System.out.println(number + " * i " +i + " = " + result[counter] );
+counter++;
 }
 input.close();
 }
