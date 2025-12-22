@@ -14,7 +14,7 @@ index++;
 }
 int counter =0;
 for( int i=6; i <=9; i++){
-System.out.println(number + " * i " +i + " = " + result[counter] );
+System.out.println(number + " * " +i + " = " + result[counter] );
 counter++;
 }
 input.close();
