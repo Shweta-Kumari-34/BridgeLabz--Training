@@ -5,7 +5,7 @@ public static void main(String[]args){
 Scanner input=new Scanner(System.in);
 int[] elements = new int[5];
 
-//Take student age
+//reading user input
 System.out.println("Enter the five number");
 for (int i = 0; i < 5 ; i++) {
 elements[i] = input.nextInt();
