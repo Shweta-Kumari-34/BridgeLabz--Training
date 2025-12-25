@@ -2,16 +2,16 @@ import java.util.Scanner;
 //creating a class with name as UpperCaseComparisonProgram
 public class UpperCaseComparisonProgram {
 
-// Method to convert text to uppercase using charAt() and ASCII logic
-public static String toUpperCaseUsingCharAt(String text) {
+// Method to convert text to lowercase using charAt() and ASCII logic
+public static String toLowerCaseUsingCharAt(String text) {
 String result = "";
 
 for (int i = 0; i < text.length(); i++) {
 char ch = text.charAt(i);
 
-// Check if character is lowercase (a-z)
-if (ch >= 'a' && ch <= 'z') {
-ch = (char) (ch - 32); // ASCII difference between lowercase and uppercase
+// Check if character is uppercase (a-z)
+if (ch >= 'A' && ch <= 'Z') {
+ch = (char) (ch + 32); // ASCII difference between lowercase and uppercase
 }
 
 result = result + ch;
@@ -29,7 +29,7 @@ return false;
 
 for (int i = 0; i < s1.length(); i++) {
 if (s1.charAt(i) != s2.charAt(i)) {
-return false;  //if both character are different
+return false;  // if both character are different
 }
 }
 
@@ -45,17 +45,17 @@ System.out.print("Enter the text: ");
 String text = input.nextLine();
 
 // Convert using user-defined method
-String manualUpper = toUpperCaseUsingCharAt(text);
+String manualLower = toLowerCaseUsingCharAt(text);
 
 // Convert using built-in method
-String builtInUpper = text.toUpperCase();
+String builtInLower = text.toLowerCase();
 
 // Compare both results
-boolean result = compareStringsUsingCharAt(manualUpper, builtInUpper);
+boolean result = compareStringsUsingCharAt(manualLower, builtInLower);
 
 // Displaying the results
-System.out.println("\nUppercase using charAt(): " + manualUpper);
-System.out.println("Uppercase using toUpperCase(): " + builtInUpper);
+System.out.println("\nLowercase using charAt(): " + manualLower);
+System.out.println("Lowercase using toLowerCase(): " + builtInLower);
 System.out.println("Are both results equal:" + result);
 
 input.close();
