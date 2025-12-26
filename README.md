@@ -119,5 +119,20 @@ Week 2 : Java Programming Fundamentals
 - 🔗 *Code Link:*  
 (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
 
+---
+
+Day 2 - Extras
+Date: 23-Dec-2025
+
+- Learned about available java packages and their use cases.
+  - Example : java.time
+- Solved questions of strings by using built-in String functions.
+- Solved date and time questions.
+- Solved multiple problems of different topics by using built-in functions.
+- Committed and pushed solutions to the repository.
+- 🔗 *Code Link:*  
+(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras/Extra-String)
+
+
 
 
