@@ -1,6 +1,6 @@
 ### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 ### 🗓 Day 1 – Git & GitHub Setup  
-**(Date: 16-Dec-2025)**
+**(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
 - Set up GitHub repository.
@@ -23,7 +23,7 @@ BridgeLabz-Training/
 - Successfully pushed files to the remote repository.
 ---
 ### 🗓 Day 2 – Git Practice & Basic Java Programs  
-*(Date: 17-Dec-2025)*
+*(Date: 16-Dec-2025)*
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
@@ -35,7 +35,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 3 – Programming Elements in Java  
-*(Date: 18-Dec-2025)*
+*(Date: 17-Dec-2025)*
 
 - Studied Java programming elements:
   - Variables and data types
@@ -50,7 +50,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 4 – Control Flow & Logical Constructs  
-*(Date: 19-Dec-2025)*
+*(Date: 18-Dec-2025)*
 
 - Studied logical constructs in Java:
   - if, if-else
