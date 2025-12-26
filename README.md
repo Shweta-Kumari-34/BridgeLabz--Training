@@ -133,6 +133,17 @@ Week 2 : Java Programming Fundamentals
 - 🔗 *Code Link:*  
   (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras)
 
+  ---
+
+  ### 🗓 Day 3- Revision, java Scenario-based problems & Leetcode   
+*(Date: 24-Dec-2025)*
+
+- Revision: Refactored previous code and practiced logical problem-solving.
+- Solved two Scenario based problems
+- Learned about the ways to use leetcode efficiently.
+- Committed and pushed solutions to the repository.
+ - 🔗 *Code Link:*  
+  (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
 
 
