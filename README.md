@@ -103,4 +103,21 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/methods)
 
+---
+
+Week 2 : Java Programming Fundamentals
+---
+### 🗓 Day 1 – Strings  
+*(Date: 22-Dec-2025)*
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Solved basic to advanced problems of string
+- Committed and pushed solutions to the repository
+- 🔗 *Code Link:*  
+(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
+
+
 
