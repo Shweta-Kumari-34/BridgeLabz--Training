@@ -122,7 +122,7 @@ Week 2 : Java Programming Fundamentals
 ---
 
 Day 2 - Extras
-Date: 23-Dec-2025
+*(Date: 23-Dec-2025)*
 
 - Learned about available java packages and their use cases.
   - Example : java.time
