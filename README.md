@@ -87,3 +87,20 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/arrays)
 
+---
+
+### 🗓 Day 6 –  Methods  
+*(Date: 20-Dec-2025)*
+
+- String methods
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Solved basic to advanced problems of methods.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/methods)
+
+
