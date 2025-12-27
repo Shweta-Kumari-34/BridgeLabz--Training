@@ -22,7 +22,7 @@ BridgeLabz-Training/
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
 - Successfully pushed files to the remote repository.
 ---
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
+###  Day 2 – Git Practice & Basic Java Programs  
 *(Date: 16-Dec-2025)*
 
 - Practiced Git workflow to understand commits and version control.
