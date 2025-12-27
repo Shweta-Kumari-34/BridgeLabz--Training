@@ -158,7 +158,7 @@ Week 2 : Java Programming Fundamentals
 ### Day 5 - Scenario Based Questions
 **Date:** 25-Dec-2025
 - Solved Scenario based Questions
-- ElectionBoothManager,MetroSmartCardFare,RajResultGenerator
+- ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
 - code link:
 - (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
