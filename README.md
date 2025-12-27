@@ -1,7 +1,7 @@
 BridgeLabz-Training
 OOPs Practice
 ---
--Week 2 : Git setup and OOP Introduction
+### Week 2 : Git setup and OOP Introduction
 
 ---
 
