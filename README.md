@@ -1,5 +1,5 @@
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
-### 🗓 Day 1 – Git & GitHub Setup  
+###  Week 1: Git, GitHub & Java Programming Fundamentals
+###  Day 1 – Git & GitHub Setup  
 **(Date: 15-Dec-2025)**
 
 - Installed and configured Git.
@@ -34,7 +34,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
+###  Day 3 – Programming Elements in Java  
 *(Date: 17-Dec-2025)*
 
 - Studied Java programming elements:
@@ -49,7 +49,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
+###  Day 4 – Control Flow & Logical Constructs  
 *(Date: 18-Dec-2025)*
 
 - Studied logical constructs in Java:
@@ -71,7 +71,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+###  Day 5 – Arrays & Basic Problem Solving  
 *(Date: 19-Dec-2025)*
 
 - Studied arrays in Java:
@@ -89,7 +89,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 6 –  Methods  
+###  Day 6 –  Methods  
 *(Date: 20-Dec-2025)*
 
 - String methods
@@ -107,7 +107,7 @@ BridgeLabz-Training/
 
 Week 2 : Java Programming Fundamentals
 ---
-### 🗓 Day 1 – Strings  
+###  Day 1 – Strings  
 *(Date: 22-Dec-2025)*
 
 - Studied String concepts:
@@ -121,7 +121,7 @@ Week 2 : Java Programming Fundamentals
 
 ---
 
-### 🗓 Day 2 – Extras 
+###  Day 2 – Extras 
 *(Date: 23-Dec-2025)*
 
 - Learned about available java packages and their use cases.
@@ -135,7 +135,7 @@ Week 2 : Java Programming Fundamentals
 
   ---
 
-  ### 🗓 Day 3- Revision, java Scenario-based problems & Leetcode   
+  ###  Day 3- Revision, java Scenario-based problems & Leetcode   
 *(Date: 24-Dec-2025)*
 
 - Revision: Refactored previous code and practiced logical problem-solving.
