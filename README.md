@@ -147,7 +147,7 @@ Week 2 : Java Programming Fundamentals
 
 ---
 ### Day 4 - Scenario Based Questions
-**Date:** 24-Dec-2025
+**Date:** 25-Dec-2025
 - Solved Scenario based Questions
 - BMItracker and Coffee Shop.
 - code link:
@@ -156,7 +156,7 @@ Week 2 : Java Programming Fundamentals
 ---
 
 ### Day 5 - Scenario Based Questions
-**Date:** 25-Dec-2025
+**Date:** 26-Dec-2025
 - Solved Scenario based Questions
 - ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
 - code link:
