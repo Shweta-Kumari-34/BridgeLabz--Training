@@ -145,6 +145,23 @@ Week 2 : Java Programming Fundamentals
  - 🔗 *Code Link:*  
   (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
+---
+### Day 4 - Scenario Based Questions
+**Date:** 24-Dec-2025
+- Solved Scenario based Questions
+- BMItracker and Coffee Shop.
+- code link:
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
+---
+
+### Day 5 - Scenario Based Questions
+**Date:** 25-Dec-2025
+- Solved Scenario based Questions
+- ElectionBoothManager,MetroSmartCardFare,RajResultGenerator
+- code link:
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
 
 
 
