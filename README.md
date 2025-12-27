@@ -6,7 +6,7 @@ OOPs Practice
 ---
 
 ### Day 1 - Oops Introduction and Problem Solving
-**(Date: 15-Dec-2025)**
+**(Date: 25-Dec-2025)**
 
 - Created and executed programs to understand object behavior
 - Practiced writing reusable methods & Using parameterized constructors
