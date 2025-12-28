@@ -164,7 +164,7 @@ Week 2 : Java Programming Fundamentals
 
   ---
 
-  ### Day 6 - Solved LeetCode Questions
+### Day 6 - Solved LeetCode Questions
 **Date:** 27-Dec-2025
 - Solved 9 LeetCode Questions
 - AssignCookies, MoveZeroes, PascalTriangle
