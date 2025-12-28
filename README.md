@@ -162,6 +162,17 @@ Week 2 : Java Programming Fundamentals
 - code link:
 - (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
+  ---
+
+  ### Day 6 - Solved LeetCode Questions
+**Date:** 27-Dec-2025
+- Solved 9 LeetCode Questions
+- AssignCookies, MoveZeroes, PascalTriangle
+- Committed and pushed solutions file to the repository.
+- code link:
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+  
+
 
 
 
