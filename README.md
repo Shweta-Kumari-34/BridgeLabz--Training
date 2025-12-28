@@ -6,7 +6,7 @@ OOPs Practice
 ---
 
 ### Day 1 - Oops Introduction and Problem Solving
-**(Date: 25-Dec-2025)**
+**(Date: 26-Dec-2025)**
 
 - Created and executed programs to understand object behavior
 - Practiced writing reusable methods & Using parameterized constructors
@@ -15,3 +15,14 @@ OOPs Practice
 
 🔗 Code Link:
 (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
+
+---
+
+### Day 2 - Java Constructors
+**Date:** 27-Dec-2025
+- Studied Java Constructors, Instance Vs Class Variables, Access Modifiers 
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
+  
