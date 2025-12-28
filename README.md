@@ -165,5 +165,18 @@ Week 2 : Java Programming Fundamentals
 - code link:
 - (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 - (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
+
+  ---
+
+### Day 6 - LeetCode Questions, Java Constructors
+**Date:** 27-Dec-2025
+- Solved LeetCode Questions
+- Studied Java Constructors, Instance Vs Class variable & Access Modifiers
+- Solved problems based on these concepts
+- Committed and pushed solutions to the  repository.
+- code link:
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
+  
   
 
