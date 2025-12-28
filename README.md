@@ -147,7 +147,7 @@ Week 2 : Java Programming Fundamentals
 
 ---
 ### Day 4 - Scenario Based Questions
-**Date:** 24-Dec-2025
+**Date:** 25-Dec-2025
 - Solved Scenario based Questions
 - BMItracker and Coffee Shop.
 - code link:
@@ -155,10 +155,15 @@ Week 2 : Java Programming Fundamentals
 
 ---
 
-### Day 5 - Scenario Based Questions
-**Date:** 25-Dec-2025
+### Day 5 - Scenario Based Questions, Oops Introduction & Problem Solving
+**Date:** 26-Dec-2025
 - Solved Scenario based Questions
 - ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
+- Made repository named Java-Oops-Practice
+- Write Programs to understand object behavior
+- Committed and pushed solutions to the  repository.
 - code link:
 - (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
+  
 
