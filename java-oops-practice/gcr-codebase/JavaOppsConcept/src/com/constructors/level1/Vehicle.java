@@ -1,5 +1,5 @@
 package com.constructors.level1;
-
+//creating a class with name as Vehicle
 class Vehicle {
 
     // Instance variables
