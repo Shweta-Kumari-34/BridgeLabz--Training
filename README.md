@@ -30,7 +30,7 @@ BridgeLabz-Training/
 - Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 *Code Link:*  
- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite)
+ [Program-Prerequisite](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/Program-Prerequisite)
 
 ---
 
@@ -45,7 +45,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/programming-elements)
+ [Programming-Elements](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -67,7 +67,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/control-flow)
+[Control-Flow](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -85,7 +85,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/arrays)
+[Arrays](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -101,7 +101,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/methods)
+[Methods](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -117,7 +117,7 @@ Week 2 : Java Programming Fundamentals
 - Solved basic to advanced problems of string
 - Committed and pushed solutions to the repository
 - 🔗 *Code Link:*  
-(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
+[String](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -131,7 +131,7 @@ Week 2 : Java Programming Fundamentals
 - Solved multiple problems of different topics by using built-in functions.
 - Committed and pushed solutions to the repository.
 - 🔗 *Code Link:*  
-  (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras)
+  [Extras](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras)
 
   ---
 
@@ -143,7 +143,7 @@ Week 2 : Java Programming Fundamentals
 - Learned about the ways to use leetcode efficiently.
 - Committed and pushed solutions to the repository.
  - 🔗 *Code Link:*  
-  (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+  [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
 ---
 ### Day 4 - Scenario Based Questions
@@ -151,7 +151,7 @@ Week 2 : Java Programming Fundamentals
 - Solved Scenario based Questions
 - BMItracker and Coffee Shop.
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
 ---
 
@@ -160,7 +160,7 @@ Week 2 : Java Programming Fundamentals
 - Solved Scenario based Questions
 - ElectionBoothManager, MetroSmartCardFare, RajResultGenerator
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
   ---
 
@@ -170,7 +170,7 @@ Week 2 : Java Programming Fundamentals
 - AssignCookies, MoveZeroes, PascalTriangle
 - Committed and pushed solutions file to the repository.
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+- [Arrays](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
   
 
 
