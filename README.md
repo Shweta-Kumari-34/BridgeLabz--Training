@@ -14,7 +14,7 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 
 🔗 Code Link:
-(https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
+[ClassAndObject](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
 
 ---
 
@@ -24,5 +24,5 @@ OOPs Practice
 - solved problems based on these concepts
 - Committed and pushed solutions to the repository.
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
+- [Java Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
   
