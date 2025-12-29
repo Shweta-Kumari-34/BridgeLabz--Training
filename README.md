@@ -117,7 +117,7 @@ Week 2 : Java Programming Fundamentals
 - Solved basic to advanced problems of string
 - Committed and pushed solutions to the repository
 - 🔗 *Code Link:*  
-[String](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
+[Strings](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -163,7 +163,7 @@ Week 2 : Java Programming Fundamentals
 - Write Programs to understand object behavior
 - Committed and pushed solutions to the  repository.
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 - [ClassAndObject](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
 
   ---
@@ -175,7 +175,7 @@ Week 2 : Java Programming Fundamentals
 - Solved problems based on these concepts
 - Committed and pushed solutions to the  repository.
 - code link:
-- (https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+- [Array](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
 - [Java-Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
   
   
