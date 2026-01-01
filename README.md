@@ -25,4 +25,15 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Java Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
+
+  ---
+
+### Day  - Java Keywords, InstanceOf Operator
+**Date:** 29-Dec-2025
+- Studied Java Keywords And InstanceOf Operator
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Java Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
+  
   
