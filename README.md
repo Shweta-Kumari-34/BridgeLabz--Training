@@ -28,12 +28,28 @@ OOPs Practice
 
   ---
 
-### Day  - Java Keywords, InstanceOf Operator
+### Day 3  - Java Keywords, InstanceOf Operator
 **Date:** 29-Dec-2025
 - Studied Java Keywords And InstanceOf Operator
 - solved problems based on these concepts
 - Committed and pushed solutions to the repository.
 - code link:
 - [Java Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
+
+  ---
+  
+### Day 4  - Object Modeling, Object Diagram
+**Date:** 30-Dec-2025
+- student Classes Vs Objects in Java
+- Studied Object Relationships (Association / Aggregation / Communication)
+- Studied Class Diagram, Components of a Class Diagram, Sequence Diagram
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
+  
+  
+  
+  
   
   
