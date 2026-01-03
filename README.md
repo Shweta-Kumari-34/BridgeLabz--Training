@@ -47,6 +47,21 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
+
+  ---
+
+### Day 5  - Inheritance
+**Date:** 31-Dec-2025
+- Types of Inheritance (Single, Multilevel, Hierarchical)
+- Key Features of Inheritance
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Method Overriding
+- Studied architecture of (JVM,JRE,JDK)
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Java-Inheritance](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
   
   
   
