@@ -47,6 +47,7 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
+- [Object Diagram](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectdiagram)
 
   ---
 
