@@ -195,6 +195,19 @@ Week 3 : Scenario Based, LeetCode Questions Practice
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
+  ---
+
+### Day 3 - Scenario Based Questions
+**Date:** 31-Dec-2025
+- Solved Five Scenario Based Questions
+- Digital Watch Simulation, Online Quiz Application, Currency Exchange Kiosk  
+- Bus Route Distance Tracker, Festival Lucky Draw
+- Committed and pushed solutions file to the repository. 
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
+  
+
   
   
 
