@@ -233,6 +233,18 @@ BridgeLabz-Training/
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationinterface)
 
+---
+### Day 5  - OOPs Scenario Based Questions DSA Introduction 
+**Date:** 2-Jan-2026
+- Solved five scenario based questions of java-oops-practice
+- Studied Types of Data Structure in java
+- Studied about Single Linked List, Double Linked List, Circular Linked List
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Linked-List](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/linkedlist)
+
   
   
   
