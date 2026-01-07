@@ -26,7 +26,7 @@ OOPs Practice
 - code link:
 - [Java Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
 
-  ---
+---
 ### Week 3 : OOP Concepts And PracticeQuestion
 
 ---
@@ -39,7 +39,7 @@ OOPs Practice
 - code link:
 - [Java Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
 
-  ---
+ ---
   
 ### Day 2  - Object Modeling, Object Diagram
 **Date:** 30-Dec-2025
@@ -52,7 +52,7 @@ OOPs Practice
 - [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
 - [Object Diagram](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectdiagram)
 
-  ---
+---
 
 ### Day 3  - Inheritance
 **Date:** 31-Dec-2025
@@ -67,7 +67,7 @@ OOPs Practice
 - code link:
 - [Java-Inheritance](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
 
-  ---
+---
 
 ### Day 4  - Encapsulation, Interface, Abstract Classes, & Polymorphism 
 **Date:** 1-Jan-2026
@@ -79,7 +79,7 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationinterface)
 
-  ---
+---
 
 ### Day 5  - Scenario-Based Questions
 **Date:** 2-Jan-2026
@@ -89,6 +89,18 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+---
+
+### Day 6  - Scenario-Based Questions
+**Date:** 3-Jan-2026
+- Solved 2 Scenario-Based Problems.
+- CabbyGo- A Ride-Hailing App in the Making
+- MyBank – Managing Customer Accounts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
 
   
   
