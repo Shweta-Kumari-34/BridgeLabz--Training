@@ -16,7 +16,7 @@ OOPs Practice
 🔗 Code Link:
 [ClassAndObject](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
 
-  ---
+---
 
 ### Day 2 - Java Constructors
 **Date:** 27-Dec-2025
@@ -39,7 +39,7 @@ OOPs Practice
 - code link:
 - [Java Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
 
-   ---
+---
   
 ### Day 2  - Object Modeling, Object Diagram
 **Date:** 30-Dec-2025
@@ -51,8 +51,8 @@ OOPs Practice
 - code link:
 - [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
 - [Object Diagram](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectdiagram)
-
-  ---
+  
+---
 
 ### Day 3  - Inheritance
 **Date:** 31-Dec-2025
@@ -78,7 +78,7 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationinterface)
-
+  
 ---
 
 ### Day 5  - Scenario-Based Questions
@@ -90,7 +90,7 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
-  ---
+---
 
 ### Day 6  - Scenario-Based Questions
 **Date:** 3-Jan-2026
@@ -102,7 +102,7 @@ OOPs Practice
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
-  ### Week 4 : OOP Question Practice
+### Week 4 : OOP Question Practice
 
 ---
 
@@ -115,7 +115,7 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
-  ---
+---
 
 ### Day 2  - Scenario-Based Questions
 **Date:** 6-Jan-2026
