@@ -101,6 +101,20 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+---
+  ### Week 4 : OOP Question Practice
+
+---
+
+### Day 1  - Scenario-Based Questions
+**Date:** 5-Jan-2026
+- Solved 2 Scenario-Based Problems.
+- CampusConnect – College Information System
+- SwiftCart – The Grocery Shopping App
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
 
   
   
