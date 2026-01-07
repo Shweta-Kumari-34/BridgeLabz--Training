@@ -248,7 +248,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 6  - OOPs Scenario Based Questions and DSA(Stack, Queue and HashMaps, HashFunction) 
+### Day 6  - OOPs Scenario Based Questions and DSA (Stack, Queue and HashMaps, HashFunction) 
 **Date:** 3-Jan-2026
 - Solved two scenario based questions of java-oops-practice
 - Studied Stack, Queue and HashMaps, HashFunction
@@ -274,7 +274,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 2 - OOPs Scenario Based Questions and DSA(LinearSearch, Binary Search) 
+### Day 2 - OOPs Scenario Based Questions and DSA (LinearSearch, Binary Search) 
 **Date:** 6-Jan-2026
 - Solved four scenario based questions of java-oops-practice
 - Studied about StringBuilder, StringBuffer, FileReader
