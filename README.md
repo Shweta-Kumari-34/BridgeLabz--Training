@@ -260,7 +260,7 @@ BridgeLabz-Training/
 - [HashMap & Hashing Function](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/hashmapsandhashfunctions).
 
 ---
-### ### Week 4 : OOPs Scenario-Based Question, DSA practice 
+### Week 4 : OOPs Scenario-Based Question, DSA practice 
 ---
 ### Day 1  - OOPs Scenario Based Questions and DSA(Sorting Algorithms) 
 **Date:** 5-Jan-2026
@@ -272,7 +272,19 @@ BridgeLabz-Training/
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 - [Sorting-Algorithms](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/sortingalgorithms)
 
-  
+---
+
+### Day 2 - OOPs Scenario Based Questions and DSA(LinearSearch, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader) 
+**Date:** 6-Jan-2026
+- Solved four scenario based questions of java-oops-practice
+- Studied about StringBuilder, StringBuffer, FileReader
+- Studied about InputStreamReader, Linear Search and Binary Search
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Linear and Binary Search](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/linearandbinarysearch)
+
   
   
 
