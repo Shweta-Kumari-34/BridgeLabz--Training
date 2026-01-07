@@ -166,7 +166,7 @@ BridgeLabz-Training/
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 - [ClassAndObject](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/classandobject)
 
-  ---
+---
 
 ### Day 6 - LeetCode Questions, Java Constructors
 **Date:** 27-Dec-2025
@@ -191,6 +191,23 @@ BridgeLabz-Training/
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 - [Java-Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
+
+---
+
+### Day 2 - Scenario Based Questions, Object Modeling And Object Diagram
+
+**Date:** 30-Dec-2025
+- Solved five scenario based questions of core-java-practice
+- Studied Classes vs Object in java
+- Learned Object Relationships: Association, Aggregation, Communication
+- Studied Class Diagram, Components of Class Diagram, Sequence Diagram
+- Committed and pushed solutions to the  repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
+- [Object Diagram](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectdiagram)
+
+  
   
   
 
