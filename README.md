@@ -274,7 +274,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 2 - OOPs Scenario Based Questions and DSA(LinearSearch, Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader) 
+### Day 2 - OOPs Scenario Based Questions and DSA(LinearSearch, Binary Search) 
 **Date:** 6-Jan-2026
 - Solved four scenario based questions of java-oops-practice
 - Studied about StringBuilder, StringBuffer, FileReader
