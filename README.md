@@ -31,3 +31,18 @@ DSA Question Practice
 🔗 Code Link:
 [Stack & Queue](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/stacksandqueue)
 [HashMap & Hashing Function](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/hashmapsandhashfunctions).
+
+---
+
+### Day 3 - Sorting Algorithms
+**(Date: 04-Jan-2026)**
+
+- Studied about Sorting Algorithmms
+- Bubble Sort, Insertion Sort, Merge Sort & Quick Sort
+- Studied about its time Complexity, working mechanism
+- Studied about its performance analysis and algorithms 
+- Solved practice questions based on these concepts
+- Committed and pushed solutions to the repository.
+
+🔗 Code Link:
+[Sorting-Algorithms](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/sortingalgorithms)
