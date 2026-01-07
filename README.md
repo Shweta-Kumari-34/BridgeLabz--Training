@@ -105,7 +105,7 @@ BridgeLabz-Training/
 
 ---
 
-Week 2 : Java Programming Fundamentals
+### Week 2 : Java Programming Fundamentals
 ---
 ###  Day 1 – Strings  
 *(Date: 22-Dec-2025)*
@@ -133,9 +133,9 @@ Week 2 : Java Programming Fundamentals
 - 🔗 *Code Link:*  
   [Extras](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras)
 
-  ---
+---
 
-  ###  Day 3- Revision, java Scenario-based problems & Leetcode   
+ ###  Day 3- Revision, java Scenario-based problems & Leetcode   
 *(Date: 24-Dec-2025)*
 
 - Revision: Refactored previous code and practiced logical problem-solving.
@@ -175,8 +175,22 @@ Week 2 : Java Programming Fundamentals
 - Solved problems based on these concepts
 - Committed and pushed solutions to the  repository.
 - code link:
-- [Array](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+- [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
 - [Java-Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
+
+---
+### Week 3 : OOPs Concept, Scenario-Based and LeetCode Questions Practice
+---
+### Day 1 - Scenario Based Questions, Java Keywords and InstanceOf Operator
+
+**Date:** 29-Dec-2025
+- Solved five scenario based questions of core-java-practice
+- Studied Java keywords and the instanceof operator
+- Solved problems based on these concepts
+- Committed and pushed solutions to the  repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Java-Keywords](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/javakeywords)
   
   
 
