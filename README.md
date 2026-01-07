@@ -221,6 +221,18 @@ BridgeLabz-Training/
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 - [Java-Inheritance](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
 
+  ---
+
+### Day 4  - Encapsulation, Interface, Abstract Classes, & Polymorphism 
+**Date:** 1-Jan-2026
+- Studied Encapsulation, Polymorphism, Interface and Abstract Class
+- Studied Key Features of OOPs Concepts
+- Studied about Interface its types and use case
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationinterface)
+
   
   
   
