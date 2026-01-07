@@ -67,7 +67,7 @@ OOPs Practice
 - code link:
 - [Java-Inheritance](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
 
-  ---
+---
 
 ### Day 4  - Encapsulation, Interface, Abstract Classes, & Polymorphism 
 **Date:** 1-Jan-2026
