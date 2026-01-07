@@ -126,6 +126,18 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+  ---
+
+### Day 3  - Scenario-Based Questions
+**Date:** 7-Jan-2026
+- Solved 3 Scenario-Based Problems.
+- LoanBuddy – Loan Approval Automation, BookBazaar – Digital Bookstore System
+- ParkEase – Smart Parking Management System
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+
 
 
 
