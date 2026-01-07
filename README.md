@@ -115,6 +115,19 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+  ---
+
+### Day 2  - Scenario-Based Questions
+**Date:** 6-Jan-2026
+- Solved 4 Scenario-Based Problems.
+- EduMentor – Personalized Learning Platform, FitTrack – Your Personal Fitness Tracker
+- PetPal – Virtual Pet Care App, EventEase – Event Management Platform
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+
+
 
   
   
