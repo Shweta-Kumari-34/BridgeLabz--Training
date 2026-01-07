@@ -27,8 +27,11 @@ OOPs Practice
 - [Java Constructors](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/constructors/level1)
 
   ---
+### Week 3 : OOP Concepts And PracticeQuestion
 
-### Day 3  - Java Keywords, InstanceOf Operator
+---
+
+### Day 1  - Java Keywords, InstanceOf Operator
 **Date:** 29-Dec-2025
 - Studied Java Keywords And InstanceOf Operator
 - solved problems based on these concepts
@@ -38,7 +41,7 @@ OOPs Practice
 
   ---
   
-### Day 4  - Object Modeling, Object Diagram
+### Day 2  - Object Modeling, Object Diagram
 **Date:** 30-Dec-2025
 - student Classes Vs Objects in Java
 - Studied Object Relationships (Association / Aggregation / Communication)
@@ -51,7 +54,7 @@ OOPs Practice
 
   ---
 
-### Day 5  - Inheritance
+### Day 3  - Inheritance
 **Date:** 31-Dec-2025
 - Types of Inheritance (Single, Multilevel, Hierarchical)
 - Key Features of Inheritance
@@ -66,7 +69,7 @@ OOPs Practice
 
   ---
 
-### Day 5  - Encapsulation, Interface, Abstract Classes, & Polymorphism 
+### Day 4  - Encapsulation, Interface, Abstract Classes, & Polymorphism 
 **Date:** 1-Jan-2026
 - Studied Encapsulation, Polymorphism, Interface and Abstract Class
 - Studied Key Features of OOPs Concepts
@@ -75,7 +78,18 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/encapsulationinterface)
-  
+
+  ---
+
+### Day 5  - Scenario-Based Questions
+**Date:** 2-Jan-2026
+- Solved 5 Scenario-Based Problems.
+- Hospital Patient Management System, Vehicle Rental Application, University Course Enrollment System
+- E-Wallet Application, Smart Home Automation System
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
   
   
   
