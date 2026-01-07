@@ -255,10 +255,22 @@ BridgeLabz-Training/
 - solved problems based on these concepts
 - Committed and pushed solutions to the repository.
 - code link:
-- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Basedd](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 - [Stack & Queue](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/stacksandqueue)
 - [HashMap & Hashing Function](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/hashmapsandhashfunctions).
 
+---
+### ### Week 4 : OOPs Scenario-Based Question, DSA practice 
+---
+### Day 1  - OOPs Scenario Based Questions and DSA(Sorting Algorithms) 
+**Date:** 5-Jan-2026
+- Solved two scenario based questions of java-oops-practice
+- Studied Studied about Sorting Algorithmms
+- solved problems based on these concepts
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Sorting-Algorithms](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/sortingalgorithms)
 
   
   
