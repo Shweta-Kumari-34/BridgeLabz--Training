@@ -34,7 +34,10 @@ DSA Question Practice
 
 ---
 
-### Day 3 - Sorting Algorithms
+### Week 4 : DSA Concepts
+---
+
+### Day 1 - Sorting Algorithms
 **(Date: 05-Jan-2026)**
 
 - Studied about Sorting Algorithmms
@@ -49,7 +52,7 @@ DSA Question Practice
 
 ---
 
-### Day 4 - Linear Search & Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+### Day 2 - Linear Search & Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 **(Date: 06-Jan-2026)**
 
 - Studied about StringBuilder, StringBuffer, FileReader
@@ -61,3 +64,14 @@ DSA Question Practice
 
 🔗 Code Link:
 [Linear and Binary Search](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/linearandbinarysearch)
+
+---
+### Day 3 - Algorithm's Runtime Analysis & Big-O Notation
+**(Date: 07-Jan-2026)**
+- Studied What is Runtime Analysis?
+- Understand about Big-O Notation
+- Studied Time Complexity and Space Complexity Analysis  
+- Solved practice questions based on these concepts
+- Committed and pushed solutions to the repository.
+🔗 Code Link:
+[Algorithm-Runtime]()
