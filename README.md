@@ -5,7 +5,7 @@ DSA Question Practice
 
 ---
 
-### Day 1 - DSA Introduction and Problem Solving
+### Day 1 - DSA Introduction,LinkedList  and Problem Solving
 **(Date: 02-Jan-2026)**
 
 - Go through Prep Plan & Roadmap
@@ -35,7 +35,7 @@ DSA Question Practice
 ---
 
 ### Day 3 - Sorting Algorithms
-**(Date: 04-Jan-2026)**
+**(Date: 05-Jan-2026)**
 
 - Studied about Sorting Algorithmms
 - Bubble Sort, Insertion Sort, Merge Sort & Quick Sort
@@ -46,3 +46,18 @@ DSA Question Practice
 
 🔗 Code Link:
 [Sorting-Algorithms](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/sortingalgorithms)
+
+---
+
+### Day 4 - Linear Search & Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+**(Date: 06-Jan-2026)**
+
+- Studied about StringBuilder, StringBuffer, FileReader
+- Studied about InputStreamReader, Linear Search and Binary Search
+- Learned the use cases, advantages and time-complexity of these concepts
+- Understood the strategic use of these concepts according to problem requirements  
+- Solved practice questions based on these concepts
+- Committed and pushed solutions to the repository.
+
+🔗 Code Link:
+[Linear and Binary Search](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/linearandbinarysearch)
