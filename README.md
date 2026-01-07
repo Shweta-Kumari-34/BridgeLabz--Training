@@ -207,6 +207,20 @@ BridgeLabz-Training/
 - [Object Modeling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectmodeling)
 - [Object Diagram](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/objectdiagram)
 
+---
+
+### Day 3 - Scenario Based Questions, Inheritance Concepts
+
+**Date:** 31-Dec-2025
+- Solved five scenario based questions of core-java-practice
+- Studied Inheritance its types(Single, Multilevel, Hierarchical)
+- Studied about Method Overriding
+- Solved problems based on these concepts 
+- Committed and pushed solutions to the  repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [Java-Inheritance](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOppsConcept/src/com/inheritance)
+
   
   
   
