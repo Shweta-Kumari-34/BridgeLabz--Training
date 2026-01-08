@@ -210,7 +210,7 @@ BridgeLabz-Training/
 
 ### Week 4 : LeetCode Questions Practice
 ---
-### Day 1 - Scenario Based Questions
+### Day 4 - Scenario Based Questions
 **Date:** 7-Jan-2026
 - Solved  three Scenario Based Questions
 - LengthOfLastWord, LongestCommonPrefix, RomanToInteger
