@@ -105,7 +105,7 @@ BridgeLabz-Training/
 
 ---
 
-Week 2 : Java Programming Fundamentals
+### Week 2 : Java Programming Fundamentals
 ---
 ###  Day 1 – Strings  
 *(Date: 22-Dec-2025)*
@@ -125,7 +125,7 @@ Week 2 : Java Programming Fundamentals
 *(Date: 23-Dec-2025)*
 
 - Learned about available java packages and their use cases.
-  - Example : java.time
+ - Example : java.time
 - Solved questions of strings by using built-in String functions.
 - Solved date and time questions.
 - Solved multiple problems of different topics by using built-in functions.
@@ -133,7 +133,7 @@ Week 2 : Java Programming Fundamentals
 - 🔗 *Code Link:*  
   [Extras](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/gcr-codebase/extras)
 
-  ---
+---
 
 ###  Day 3- Revision, java Scenario-based problems & Leetcode   
 *(Date: 24-Dec-2025)*
@@ -162,7 +162,7 @@ Week 2 : Java Programming Fundamentals
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
-  ---
+---
 
 ### Day 6 - Solved LeetCode Questions
 **Date:** 27-Dec-2025
@@ -172,9 +172,9 @@ Week 2 : Java Programming Fundamentals
 - code link:
 - [Arrays](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
 
-  ---
+---
   
-Week 3 : Scenario Based, LeetCode Questions Practice
+### Week 3 : Scenario Based, LeetCode Questions Practice
 ### Day 1 - Scenario Based Questions
 **Date:** 29-Dec-2025
 - Solved  Five Scenario Based Questions
@@ -184,7 +184,7 @@ Week 3 : Scenario Based, LeetCode Questions Practice
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
-  ---
+---
 
 ### Day 2 - Scenario Based Questions
 **Date:** 30-Dec-2025
@@ -195,7 +195,7 @@ Week 3 : Scenario Based, LeetCode Questions Practice
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
-  ---
+---
 
 ### Day 3 - Scenario Based Questions
 **Date:** 31-Dec-2025
@@ -206,6 +206,16 @@ Week 3 : Scenario Based, LeetCode Questions Practice
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
 
+---
+
+### Week 4 : LeetCode Questions Practice
+---
+### Day 1 - Scenario Based Questions
+**Date:** 7-Jan-2026
+- Solved  three Scenario Based Questions
+- LengthOfLastWord, LongestCommonPrefix, RomanToInteger
+- Committed and pushed solutions file to the repository.
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
   
 
   
