@@ -287,11 +287,9 @@ BridgeLabz-Training/
 
 ---
 
- ### Day 3 - OOPs Scenario Based Questions and DSA (Algorithm's Runtime Analysis & Big-O Notation) 
-**Date:** 6-Jan-2026
+### Day 3 - OOPs Scenario Based Questions 
+**Date:** 7-Jan-2026
 - Solved three scenario based questions of java-oops-practice
-- Algorithm's Runtime Analysis & Big-O Notation
-- solved problems based on these concepts
 - Committed and pushed solutions to the repository.
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
