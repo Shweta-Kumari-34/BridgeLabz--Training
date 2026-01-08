@@ -135,7 +135,7 @@ Week 2 : Java Programming Fundamentals
 
   ---
 
-  ###  Day 3- Revision, java Scenario-based problems & Leetcode   
+###  Day 3- Revision, java Scenario-based problems & Leetcode   
 *(Date: 24-Dec-2025)*
 
 - Revision: Refactored previous code and practiced logical problem-solving.
@@ -171,6 +171,44 @@ Week 2 : Java Programming Fundamentals
 - Committed and pushed solutions file to the repository.
 - code link:
 - [Arrays](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/Array)
+
+  ---
+  
+Week 3 : Scenario Based, LeetCode Questions Practice
+### Day 1 - Scenario Based Questions
+**Date:** 29-Dec-2025
+- Solved  Five Scenario Based Questions
+- Shopkeeper’s Discount, School Bus Attendance System, Phone Recharge Simulator
+- Parking Lot Gate System, The Number Guessing Game
+- Committed and pushed solutions file to the repository. 
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
+  ---
+
+### Day 2 - Scenario Based Questions
+**Date:** 30-Dec-2025
+- Solved  Five Scenario Based Questions
+- Temperature Logger, Train Reservation Queue, Sandeep’s Fitness Challenge Tracker 
+- Movie Ticket Booking App, Rohan’s Library Reminder App
+- Committed and pushed solutions file to the repository. 
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
+  ---
+
+### Day 3 - Scenario Based Questions
+**Date:** 31-Dec-2025
+- Solved Five Scenario Based Questions
+- Digital Watch Simulation, Online Quiz Application, Currency Exchange Kiosk  
+- Bus Route Distance Tracker, Festival Lucky Draw
+- Committed and pushed solutions file to the repository. 
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+
+  
+
+  
   
 
 
