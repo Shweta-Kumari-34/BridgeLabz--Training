@@ -137,7 +137,7 @@ OOPs Practice
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
-  ---
+---
 ### Day 4  - Scenario-Based Questions
 **Date:** 8-Jan-2026
 - Solved two Scenario-Based Problems.
