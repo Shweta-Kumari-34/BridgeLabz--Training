@@ -294,6 +294,16 @@ BridgeLabz-Training/
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
+---
+  
+### Day 8 - OOPs Scenario Based Questions 
+**Date:** 8-Jan-2026
+- Solved two scenario based questions of java-oops-practice
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+  
+
 
   
   
