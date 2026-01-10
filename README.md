@@ -210,12 +210,21 @@ BridgeLabz-Training/
 
 ### Week 4 : LeetCode Questions Practice
 ---
-### Day 4 - Scenario Based Questions
-**Date:** 7-Jan-2026
-- Solved  three Scenario Based Questions
+### Day 1 - String Questions
+**Date:** 9-Jan-2026
+- Solved  three question
 - LengthOfLastWord, LongestCommonPrefix, RomanToInteger
 - Committed and pushed solutions file to the repository.
-- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/scenario-based)
+- [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
+
+---
+
+### Day 2 - Leetcode String Questions
+**Date:** 10-Jan-2026
+- Solved  two questions
+- ValidPalindrome, IsomorphicStrings
+- Committed and pushed solutions file to the repository.
+- [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
   
 
   
