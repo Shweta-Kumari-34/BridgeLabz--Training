@@ -38,9 +38,9 @@ public class Main {
 	                    loan.setCreditScore(hCreditScore);
 
 	                    if (loan.approveLoan()) {
-	                        System.out.println("Home Loan Approved ✅");
+	                        System.out.println("Home Loan Approved ");
 	                    } else {
-	                        System.out.println("Home Loan Rejected ❌");
+	                        System.out.println("Home Loan Rejected ");
 	                    }
 
 	                    Applicant.assignLoanNumber(counter++);
@@ -62,9 +62,9 @@ public class Main {
 	                    loan.setCreditScore(aCreditScore);
 
 	                    if (loan.approveLoan()) {
-	                        System.out.println("Auto Loan Approved ✅");
+	                        System.out.println("Auto Loan Approved ");
 	                    } else {
-	                        System.out.println("Auto Loan Rejected ❌");
+	                        System.out.println("Auto Loan Rejected ");
 	                    }
 
 	                    Applicant.assignLoanNumber(counter++);
