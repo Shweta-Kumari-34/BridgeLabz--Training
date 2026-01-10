@@ -145,6 +145,17 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+---
+
+### Day 5  - Scenario-Based Questions
+**Date:** 9-Jan-2026
+- Solved three Scenario-Based Problems.
+- Artify – Digital Art Marketplace, FoodLoop – Restaurant Ordering System
+- SkillForge – Online Learning Portal
+- Committed and pushed solutions to the repository.
+- code link:
+- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
   
 
 
