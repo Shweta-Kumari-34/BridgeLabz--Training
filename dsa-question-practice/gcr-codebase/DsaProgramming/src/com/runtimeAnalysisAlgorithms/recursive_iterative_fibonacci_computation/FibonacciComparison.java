@@ -1,6 +1,6 @@
 package com.runtimeAnalysisAlgorithms.recursive_iterative_fibonacci_computation;
 
-public class FibonacciComaparison {
+public class FibonacciComparison {
 
 	    static int fibonacciRecursive(int n) {
 	        if (n <= 1)
