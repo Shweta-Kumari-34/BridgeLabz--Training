@@ -156,6 +156,20 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+---
+### Week 5 : OOPs Question Practice
+
+---
+
+### Day 1  - Scenario-Based Questions
+**Date:** 12-Jan-2026
+- Solved three Scenario-Based Problems.
+- HomeNest – Smart Home Device Manager, BudgetWise – Personal Finance Tracker
+- GameBox – Mobile Game Distribution Platform
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
   
 
 
