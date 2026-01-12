@@ -336,7 +336,7 @@ BridgeLabz-Training/
 - solved three scenario based questions of java-oops-practice
 - Committed and pushed solutions to the repository.
 - code link:
-- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src))
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 - [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/BinarySearch)
 
   
