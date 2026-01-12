@@ -88,7 +88,7 @@ OOPs Practice
 - E-Wallet Application, Smart Home Automation System
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 
@@ -99,7 +99,7 @@ OOPs Practice
 - MyBank – Managing Customer Accounts
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 ### Week 4 : OOP Question Practice
@@ -113,7 +113,7 @@ OOPs Practice
 - SwiftCart – The Grocery Shopping App
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 
@@ -124,7 +124,7 @@ OOPs Practice
 - PetPal – Virtual Pet Care App, EventEase – Event Management Platform
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
   ---
 
@@ -135,7 +135,7 @@ OOPs Practice
 - ParkEase – Smart Parking Management System
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 ### Day 4  - Scenario-Based Questions
@@ -144,7 +144,7 @@ OOPs Practice
 - MediStore – Pharmacy Inventory & Sales System, TourMate – Travel Itinerary Planner
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
 
 ---
 
@@ -155,7 +155,7 @@ OOPs Practice
 - SkillForge – Online Learning Portal
 - Committed and pushed solutions to the repository.
 - code link:
-- [Oops-Concepts](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
   
 
 
