@@ -225,6 +225,19 @@ BridgeLabz-Training/
 - ValidPalindrome, IsomorphicStrings
 - Committed and pushed solutions file to the repository.
 - [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
+
+---
+
+### Week 5 : LeetCode Questions Practice
+---
+### Day 1 - Leetcode String Questions
+**Date:** 10-Jan-2026
+- Solved  three questions related to Binary Search
+- FirstBadVersion, Sqrt(x), ValidPerfectSquare
+- Committed and pushed solutions file to the repository.
+- [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
+
+  
   
 
   
