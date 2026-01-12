@@ -82,7 +82,7 @@ DSA Question Practice
 
 ### Day 4-DSA Scenario Based Questions
 **(Date: 10-Jan-2026)**
--Solved three scenario based questions of dsa-question-practice
+- Solved three scenario based questions of dsa-question-practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
