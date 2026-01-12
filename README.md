@@ -325,6 +325,20 @@ BridgeLabz-Training/
 - [Scenario-Based]()
 - [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
 
+---
+### Week 5 : OOPs Scenario-Based, DSA, And LeetCode Question Practice 
+---
+
+### Day 1 -  DSA , OOPs Scenario And Leetcode Questions 
+**Date:** 12-Jan-2026
+- Solved four scenario based questions of dsa-question-practice
+- Solved Three Leetcode Questions
+- solved three scenario based questions of java-oops-practice
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src))
+- [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/BinarySearch)
+
   
   
 
