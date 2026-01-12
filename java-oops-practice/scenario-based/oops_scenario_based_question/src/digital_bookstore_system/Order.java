@@ -24,7 +24,7 @@ public class Order {
 			totalAmount += cost;
 			bookList.add(book);
 
-			System.out.println(quantity + " copies of \"" + book.getTitle() + "\" added.");
+			System.out.println(quantity + " copies of \"" + book.getTitle() + "\" book ordered.");
 		} else {
 			System.out.println("Insufficient stock for " + book.getTitle());
 		}
