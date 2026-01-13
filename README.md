@@ -77,3 +77,15 @@ DSA Question Practice
   
 🔗 Code Link:
 [Algorithm-Runtime]()
+
+---
+
+### Day 4-DSA Scenario Based Questions
+**(Date: 10-Jan-2026)**
+- Solved three scenario based questions of dsa-question-practice
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Algorithm-Runtime]()
+
+
