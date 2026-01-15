@@ -83,8 +83,22 @@ DSA Question Practice
 ### Day 4-DSA Scenario Based Questions
 **(Date: 10-Jan-2026)**
 - Solved three scenario based questions
-- BookShelf – Library Organizer, BrowserBuddy – Tab History Manager,
+- BookShelf – Library Organizer, BrowserBuddy – Tab History Manager
 - AmbulanceRoute – Emergency Patient Navigation
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
+
+---
+### Week 5 : Scenario-Based Question And DSA Concepts
+---
+
+### Day 1-DSA Scenario Based Questions
+**(Date: 12-Jan-2026)**
+- Solved four scenario based questions
+- Customer Queue Manager, TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality, TrafficManager – Roundabout Vehicle Flow 
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
