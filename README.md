@@ -104,4 +104,17 @@ DSA Question Practice
 🔗 Code Link:
 [Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
 
+---
+
+### Day 2-DSA Scenario Based Questions And Tree Concepts
+**(Date: 13-Jan-2026)**
+- Solved three scenario based questions
+- SmartCheckout – Supermarket Billing Queue, ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Studied about Tree Data-Structure
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
+
 
