@@ -76,16 +76,18 @@ DSA Question Practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime]()
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
 
 ---
 
 ### Day 4-DSA Scenario Based Questions
 **(Date: 10-Jan-2026)**
-- Solved three scenario based questions of dsa-question-practice
+- Solved three scenario based questions
+- BookShelf – Library Organizer, BrowserBuddy – Tab History Manager,
+- AmbulanceRoute – Emergency Patient Navigation
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime]()
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
 
 
