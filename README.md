@@ -316,13 +316,13 @@ BridgeLabz-Training/
 
 ---
 
-### Day 6 -  SceDSAnario Based Questions And Leetcode String Questions
+### Day 6 -  Scenario Based Questions And Leetcode String Questions
 **Date:** 10-Jan-2026
 - Solved three scenario based questions of dsa-question-practice
 - Solved Three Leetcode Questions 
 - Committed and pushed solutions to the repository.
 - code link:
-- [Scenario-Based]()
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 - [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/String)
 
 ---
@@ -336,8 +336,22 @@ BridgeLabz-Training/
 - solved three scenario based questions of java-oops-practice
 - Committed and pushed solutions to the repository.
 - code link:
-- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [OOps-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 - [LeetCode](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/core-java-practice/leet-code-codebase/BinarySearch)
+
+---
+
+### Day 2 -  DSA, OOPs Scenario Based Question And Tree Data Structure
+**Date:** 13-Jan-2026
+- Solved three scenario based questions of dsa-question-practice
+- solved two scenario based questions of java-oops-practice
+- Studied about Tree Data-Structur
+- Studied about Tree Data-Structure
+- Committed and pushed solutions to the repository.
+- code link:
+- [OOps-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)  
 
   
   
