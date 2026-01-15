@@ -170,6 +170,18 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+  ---
+
+### Day 2  - Scenario-Based Questions
+**Date:** 13-Jan-2026
+- Solved two Scenario-Based Problems.
+- PayXpress – Utility Bill Payment System, Bird Sanctuary
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+  
+
   
 
 
