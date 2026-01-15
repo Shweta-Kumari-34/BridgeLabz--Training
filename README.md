@@ -347,7 +347,6 @@ BridgeLabz-Training/
 - Solved three scenario based questions of dsa-question-practice
 - solved two scenario based questions of java-oops-practice
 - Studied about Tree Data-Structur
-- Studied about Tree Data-Structure
 - Committed and pushed solutions to the repository.
 - code link:
 - [OOps-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
