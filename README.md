@@ -88,7 +88,7 @@ DSA Question Practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 
 ---
 ### Week 5 : Scenario-Based Question And DSA Concepts
@@ -102,7 +102,7 @@ DSA Question Practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 
 ---
 
@@ -115,6 +115,6 @@ DSA Question Practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 
 
