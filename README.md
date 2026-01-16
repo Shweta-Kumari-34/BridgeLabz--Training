@@ -117,4 +117,17 @@ DSA Question Practice
 🔗 Code Link:
 [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 
+---
+
+### Day 3-DSA Scenario Based Questions And Tree Concepts
+**(Date: 15-Jan-2026)**
+- Solved five scenario based questions based on sorting algorithms
+- HospitalQueue – Patient Sorting by Criticality, SmartShelf Real Time Book Arrangement, ZipZipMart Daily Sales Summary Report
+- EventManager – Ticket Price Optimizer,  ExamCell – Student Rank Generator
+- Studied about Graph Data-Structure
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
 
