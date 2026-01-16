@@ -350,7 +350,18 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 - code link:
 - [OOPs-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
+---
+
+### Day 3 -  DSA And Graph Data Structure
+**Date:** 13-Jan-2026
+- Solved five scenario based questions of dsa-question-practice
+- Studied about Graph Data-Structur
+- Committed and pushed solutions to the repository.
+- code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)  
+
 
   
   
