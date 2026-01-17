@@ -76,16 +76,58 @@ DSA Question Practice
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime]()
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/gcr-codebase/DsaProgramming/src/com/runtimeAnalysisAlgorithms)
 
 ---
 
 ### Day 4-DSA Scenario Based Questions
 **(Date: 10-Jan-2026)**
-- Solved three scenario based questions of dsa-question-practice
+- Solved three scenario based questions
+- BookShelf – Library Organizer, BrowserBuddy – Tab History Manager
+- AmbulanceRoute – Emergency Patient Navigation
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
-[Algorithm-Runtime]()
+[Algorithm-Runtime](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
+---
+### Week 5 : Scenario-Based Question And DSA Concepts
+---
+
+### Day 1-DSA Scenario Based Questions
+**(Date: 12-Jan-2026)**
+- Solved four scenario based questions
+- Customer Queue Manager, TrainCompanion – Compartment Navigation System
+- TextEditor – Undo/Redo Functionality, TrafficManager – Roundabout Vehicle Flow 
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
+---
+
+### Day 2-DSA Scenario Based Questions And Tree Concepts
+**(Date: 13-Jan-2026)**
+- Solved three scenario based questions
+- SmartCheckout – Supermarket Billing Queue, ParcelTracker – Delivery Chain Management
+- ExamProctor – Online Exam Review System
+- Studied about Tree Data-Structure
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
+---
+
+### Day 3-DSA Scenario Based Questions And Tree Concepts
+**(Date: 15-Jan-2026)**
+- Solved five scenario based questions based on sorting algorithms
+- HospitalQueue – Patient Sorting by Criticality, SmartShelf Real Time Book Arrangement, ZipZipMart Daily Sales Summary Report
+- EventManager – Ticket Price Optimizer,  ExamCell – Student Rank Generator
+- Studied about Graph Data-Structure
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
 
 
