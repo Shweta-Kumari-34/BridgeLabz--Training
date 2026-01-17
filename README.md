@@ -354,13 +354,26 @@ BridgeLabz-Training/
 
 ---
 
-### Day 3 -  DSA And Graph Data Structure
+### Day 4 -  DSA And Graph Data Structure
 **Date:** 15-Jan-2026
 - Solved five scenario based questions of dsa-question-practice
 - Studied about Graph Data-Structure
 - Committed and pushed solutions to the repository.
 - code link:
-- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)  
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+  
+---
+
+### Day 5 -  DSA And Graph Data Structure And Collections Framework
+**Date:** 16-Jan-2026
+- Solved three scenario based questions of dsa-question-practice
+- Studied about Collections Framework
+- Learn Hierarchy of Collections Framework
+- Committed and pushed solutions to the repository.
+- code link:
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+  
 
 
   
