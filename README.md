@@ -373,6 +373,18 @@ BridgeLabz-Training/
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 
+---
+
+### Day 6 -  DSA And Graph Data Structure And Collections Framework
+**Date:** 17-Jan-2026
+- Solved four scenario based questions of dsa-question-practice 
+- All the 4 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
+- Learnt how to use efficient sorting.
+- Committed and pushed solutions to the repository.
+- code link:
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
   
 
 
