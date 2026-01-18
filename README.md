@@ -119,7 +119,7 @@ DSA Question Practice
 
 ---
 
-### Day 3-DSA Scenario Based Questions And Tree Concepts
+### Day 4-DSA Scenario Based Questions And Tree Concepts
 **(Date: 15-Jan-2026)**
 - Solved five scenario based questions based on sorting algorithms
 - HospitalQueue – Patient Sorting by Criticality, SmartShelf Real Time Book Arrangement, ZipZipMart Daily Sales Summary Report
@@ -129,5 +129,19 @@ DSA Question Practice
   
 🔗 Code Link:
 [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src)
+
+---
+
+### Day 5-DSA Scenario Based Questions 
+**(Date: 16-Jan-2026)**
+- Solved three scenario based questions based on sorting algorithms
+- RoboWarehouse – Shelf Loading Robot (Insertion Sort), CinemaHouse – Movie Time Sorting (Bubble Sort)
+- CropMonitor – Sensor Data Ordering (Quick Sort)
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
 
 
