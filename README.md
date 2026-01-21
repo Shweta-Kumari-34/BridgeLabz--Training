@@ -384,12 +384,24 @@ BridgeLabz-Training/
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
   
-  ---
+---
 ### Week 6 : OOPs Scenario-Based, DSA, And Java Collection 
+---
 ### Day 1 -  DSA And Collections Framework
 **Date:** 19-Jan-2026
 - Solved three scenario based questions of dsa-question-practice 
 - All the 3 problems involved the use of Sorting algorithms [ bubble, quick and quick].
+- Learnt how to use efficient sorting.
+- Committed and pushed solutions to the repository.
+- code link:
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- 
+---
+
+### Day 2 -  DSA And Collections Framework
+**Date:** 20-Jan-2026
+- Solved three scenario based questions of dsa-question-practice 
+- All the 3 problems involved the use of Sorting algorithms [ merge, quick and quick].
 - Learnt how to use efficient sorting.
 - Committed and pushed solutions to the repository.
 - code link:
