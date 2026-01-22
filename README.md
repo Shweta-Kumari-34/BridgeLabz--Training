@@ -183,6 +183,20 @@ DSA Question Practice
 🔗 Code Link:
 [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 
+---
+
+### Day 3-DSA Scenario Based Questions 
+**(Date: 21-Jan-2026)**
+- Solved two scenario based questions based on sorting algorithms
+- TailorShop – Sorting Orders by Delivery Deadline
+- MedWarehouse – Sorting Medicines by Expiry
+- Problem based on sorting algorithms (Insertion Sort, Merge Sort)
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
 
 
 
