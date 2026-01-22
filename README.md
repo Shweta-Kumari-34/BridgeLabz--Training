@@ -180,6 +180,15 @@ OOPs Practice
 - Committed and pushed solutions to the repository.
 - code link:
 - [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+
+---
+### Day 3  - Scenario-Based Questions
+**Date:** 17-Jan-2026
+- Solved two Scenario-Based Problems.
+- GeoMeasure Solutions, Bag-n-Ball Organizer
+- Committed and pushed solutions to the repository.
+- code link:
+- [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
   
 
   
