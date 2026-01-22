@@ -155,6 +155,22 @@ DSA Question Practice
 🔗 Code Link:
 [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 
+---
+### Week 6 : Scenario-Based Question And DSA Concepts
+---
+
+### Day 1-DSA Scenario Based Questions 
+**(Date: 19-Jan-2026)**
+- Solved three scenario based questions based on sorting algorithms
+- EduResults – Rank Sheet Generator, FlashDealz – Product Sorting by Discount
+- FitnessTracker – Daily Step Count Ranking 
+- Problem based on sorting algorithms (Bubble Sort, Quick Sort, Merge Sort)
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
 
 
 
