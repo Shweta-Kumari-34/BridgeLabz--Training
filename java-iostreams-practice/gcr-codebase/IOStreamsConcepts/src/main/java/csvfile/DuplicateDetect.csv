@@ -1,0 +1,15 @@
+ID,Name,Email
+101,Ananya,ananya@example.com
+102,Rahul,rahul@example.com
+103,Priya,priya@example.com
+104,Arjun,arjun@example.com
+105,Sanya,sanya@example.com
+106,Manish,manish@example.com
+107,Pooja,pooja@example.com
+108,Rohan,rohan@example.com
+102,Rahul,rahul.duplicate@example.com
+101,Ananya,ananya.duplicate@example.com
+109,Kavya,kavya@example.com
+110,Amit,amit@example.com
+103,Priya,priya.duplicate@example.com
+
