@@ -428,6 +428,16 @@ BridgeLabz-Training/
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 
 
+  ---
+  
+  ### Day 5 -  DSA And Collections Framework
+**Date:** 22-Jan-2026
+- Solved 2 scenario-Based DSA problems on sorting
+- Committed and pushed solutions to the repository.
+- code link:
+- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
   
 
 
