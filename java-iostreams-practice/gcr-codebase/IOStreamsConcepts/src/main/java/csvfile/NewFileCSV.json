@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ananya",
+        "course": "B.Tech",
+        "id": 101,
+        "age": 20
+    },
+    {
+        "name": "Rahul",
+        "course": "MBA",
+        "id": 102,
+        "age": 21
+    },
+    {
+        "name": "Priya",
+        "course": "B.Sc",
+        "id": 103,
+        "age": 19
+    },
+    {
+        "name": "Arjun",
+        "course": "B.Tech",
+        "id": 104,
+        "age": 22
+    }
+]
