@@ -391,15 +391,27 @@ BridgeLabz-Training/
 ---
 ### Week 6 : OOPs Scenario-Based, DSA, And Java Collection 
 ---
-### Day 1 -  DSA And Collections Framework
+### Day 1- Scenario-Based Of DSA, OOPs & Java I/O Practice  
 **Date:** 19-Jan-2026
-- Solved three scenario based questions of dsa-question-practice 
-- All the 3 problems involved the use of Sorting algorithms [ bubble, quick and quick].
-- Learnt how to use efficient sorting.
-- Committed and pushed solutions to the repository.
+
+- Solved multiple scenario-based problems focused on real-world use cases
+- Worked on sorting algorithm–based problems:
+  - Rank Sheet Generation, Product Sorting by Discount
+  - Daily Step Count Ranking, Address Book System
+- Applied sorting algorithms:
+  - Bubble Sort, Quick Sort, Merge Sort
+- Studied Java I/O Streams and stream-based file handling
+- Implemented file and buffered streams for efficient I/O operations
+- Worked with object streams and serialization/deserialization
+- Used in-memory and bridge streams where required
+- Applied try-with-resources and performance best practices
+- Solved practical problems including file handling and data processing
+- Committed and pushed all solutions to the repository
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
-- 
+- [OOPs-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
+- [Java-Collection](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/streams)
+  
 ---
 
 ### Day 2 -  DSA And Collections Framework
