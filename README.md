@@ -188,9 +188,10 @@ DSA Question Practice
 ### Day 3-DSA Scenario Based Questions 
 **(Date: 21-Jan-2026)**
 - Solved two scenario based questions based on sorting algorithms
-- TailorShop – Sorting Orders by Delivery Deadline
-- MedWarehouse – Sorting Medicines by Expiry
+- TailorShop – Sorting Orders by Delivery Deadline, MedWarehouse – Sorting Medicines by Expiry
 - Problem based on sorting algorithms (Insertion Sort, Merge Sort)
+- Solved three scenario based problem on (Binary Search Tree)
+- University's Digital Record System,  E-Commerce Product Inventory,  Music App 
 - Committed and pushed solutions to the repository.
   
 🔗 Code Link:
