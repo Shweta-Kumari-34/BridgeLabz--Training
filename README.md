@@ -414,14 +414,24 @@ BridgeLabz-Training/
   
 ---
 
-### Day 2 -  DSA And Collections Framework
+### Day2- DSA Scenario-Based Practice & Exception Handling  
 **Date:** 20-Jan-2026
-- Solved three scenario based questions of dsa-question-practice 
-- All the 3 problems involved the use of Sorting algorithms [ merge, quick and quick].
-- Learnt how to use efficient sorting.
-- Committed and pushed solutions to the repository.
+
+- Solved scenario-based DSA problems focused on sorting use cases
+- Implemented real-world scenarios like theater listings, customer footfall sorting, and ranking systems
+- Applied sorting algorithms:
+  - Insertion Sort, Quick Sort, Merge Sort
+- Studied Java exception handling concepts and exception hierarchy
+- Differentiated between checked and unchecked exceptions
+- Implemented try-catch-finally, multiple catch blocks, and nested try-catch
+- Applied throw and throws for exception creation and propagation
+- Designed custom exceptions for business logic
+- Solved scenario-based exception handling problems
+- Committed and pushed all solutions to the repository
+
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- [Exception Handling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/exceptions)
 
 ---
 
