@@ -26,3 +26,21 @@ Java I/O Streams
   
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/csvdatahandling)
+
+---
+
+## Day 2: JSON Data Handling with Java  
+**(Date: 24-Jan-2026)**
+
+### 📌 What I Worked On
+- Understood JSON structure and real-world use cases
+- Created JSON objects and arrays using Java libraries
+- Converted Java objects to JSON and JSON to Java
+- Parsed JSON data dynamically
+- Read and wrote JSON files
+- Validated JSON structure using JSON Schema
+- Performed filtering, searching, merging, and transforming JSON data
+- Solved practice problems and committed all work
+🔗 Reference Link
+[View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/jsondata)
+
