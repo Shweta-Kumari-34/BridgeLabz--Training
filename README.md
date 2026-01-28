@@ -413,9 +413,9 @@ BridgeLabz-Training/
 - [Java-Collection](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/streams)
   
 ---
-
 ### Day 2- DSA Scenario-Based Practice & Exception Handling  
 **Date:** 20-Jan-2026
+
 - Solved scenario-based DSA problems focused on sorting use cases
 - Implemented real-world scenarios like theater listings, customer footfall sorting, and ranking systems
 - Applied sorting algorithms:
@@ -427,7 +427,6 @@ BridgeLabz-Training/
 - Designed custom exceptions for business logic
 - Solved scenario-based exception handling problems
 - Committed and pushed all solutions to the repository
-
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 - [Exception Handling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/exceptions)
