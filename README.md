@@ -497,6 +497,25 @@ BridgeLabz-Training/
 - [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
 - [CSV Data Handling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/csvdatahandling)
 
+---
+
+### Day 5- JSON Data Handling & Scenario-Based Practice  
+**Date:** 24-Jan-2026
+- Studied JSON structure and real-world use cases
+- Created JSON objects and arrays using Java libraries
+- Converted Java objects to JSON and JSON back to Java
+- Parsed JSON data dynamically
+- Read and wrote JSON files
+- Validated JSON structure using JSON Schema
+- Performed filtering, searching, merging, and transformation of JSON data
+- Solved scenario-based problems focused on logical thinking and real-world problem solving
+- Committed and pushed all solutions to the repository
+- [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
+- [JSON Data](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/jsondata)
+
+
+
+
 
   
 
