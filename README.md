@@ -446,7 +446,6 @@ BridgeLabz-Training/
 - Solved DSA scenario-based problems using sorting algorithms:
 - Solved Binary Search Tree–based scenarios for record and inventory management
 - Committed and pushed all solutions to the repository
-
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 - [Regex & JUnit](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/regex)
@@ -472,7 +471,6 @@ BridgeLabz-Training/
 - Solved DSA scenario-based problems using tree data structures
 - Implemented real-world scenarios using AVL Trees (leaderboard, ticket booking, queue management)
 - Committed and pushed all solutions to the repository
-
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 - [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/annotations)
@@ -491,7 +489,6 @@ BridgeLabz-Training/
 - Handled large CSV files efficiently using chunk-based processing
 - Generated reports and exported structured CSV output
 - Solved practice problems and committed all work
-
 - code link:
 - [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
 - [CSV Data Handling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/csvdatahandling)
