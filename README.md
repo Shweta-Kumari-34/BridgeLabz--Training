@@ -23,8 +23,9 @@ Java Collection Practice
 [Generics](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/generics)
 
 ---
-
-## Day 23 – Java Collections Framework (List, Set, Queue & Map)  
+#### Week 5: Java Collections Framework & Problem Solving
+---
+## Day 2 – Java Collections Framework (List, Set, Queue & Map)  
 **(Date: 16-Jan-2026)**
 
 ### 📌 What I Worked On
@@ -49,5 +50,34 @@ Java Collection Practice
   
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/listinterface)
+
+---
+
+## Day 3– Java I/O Streams  
+**(Date: 19-Jan-2026)**
+
+### 📌 What I Worked On
+- Studied Java I/O Streams architecture and stream-based data handling
+- Learned byte streams and character streams for file operations
+- Implemented file streams:
+  - `FileInputStream`, `FileOutputStream`
+  - `FileReader`, `FileWriter`
+- Used buffered streams for efficient I/O:
+  - `BufferedInputStream`, `BufferedOutputStream`
+  - `BufferedReader`, `BufferedWriter`
+- Worked with object streams:
+  - `ObjectInputStream`, `ObjectOutputStream`
+  - Serialization and deserialization
+- Practiced in-memory streams:
+  - `ByteArrayInputStream`, `ByteArrayOutputStream`
+- Used bridge streams:
+  - `InputStreamReader`, `OutputStreamWriter`
+- Applied try-with-resources, buffering, and performance best practices
+- Solved practical problems (file copy, serialization, large-file handling)
+- Committed and pushed all work
+
+🔗 Reference Code
+[View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/streams)
+
 
 
