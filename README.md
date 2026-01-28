@@ -510,6 +510,7 @@ BridgeLabz-Training/
 - Performed filtering, searching, merging, and transformation of JSON data
 - Solved scenario-based problems focused on logical thinking and real-world problem solving
 - Committed and pushed all solutions to the repository
+- code link:
 - [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
 - [JSON Data](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/jsondata)
 
