@@ -25,7 +25,7 @@ Java Collection Practice
 ---
 ### Week 5: Java Collections Framework & Problem Solving
 ---
-## Day 2 – Java Collections Framework (List, Set, Queue & Map)  
+## Day 1 – Java Collections Framework (List, Set, Queue & Map)  
 **(Date: 16-Jan-2026)**
 
 ### 📌 What I Worked On
@@ -53,7 +53,7 @@ Java Collection Practice
 
 ---
 
-## Day 3– Java I/O Streams  
+## Day 2– Java I/O Streams  
 **(Date: 19-Jan-2026)**
 
 ### 📌 What I Worked On
@@ -81,7 +81,7 @@ Java Collection Practice
 
 ---
 
-## Day 4 – Exception Handling  
+## Day 3 – Exception Handling  
 **(Date: 20-Jan-2026)**
 
 ### 📌 What I Worked On
@@ -101,7 +101,7 @@ Java Collection Practice
 
 ---
 
-## Day 5 – Regex & JUnit Testing  
+## Day 4 – Regex & JUnit Testing  
 **(Date: 21-Jan-2026)**
 
 ### 📌 What I Worked On
@@ -124,6 +124,39 @@ Java Collection Practice
   
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/regex)
+
+---
+
+## Day 5 – Annotations & Reflection  
+**(Date: 22-Jan-2026)**  
+
+### 📌 What I Worked On
+- Studied Java annotations and their practical usage  
+- Implemented standard annotations:  
+  - `@Override`, `@Deprecated`, `@SuppressWarnings`  
+- Created custom annotations with attributes and default values  
+- Built repeatable annotations using `@Repeatable`  
+- Retrieved annotation metadata at runtime using the Reflection API  
+- Implemented field and method validation with annotations  
+- Simulated role-based access control using custom annotations  
+- Built annotation-driven utilities:  
+  - JSON mapping  
+  - Caching mechanisms  
+- Practiced Java Reflection fundamentals:  
+  - Inspecting classes, fields, methods, and constructors  
+  - Dynamic object creation and method invocation  
+  - Accessing private and static members using Reflection  
+- Implemented advanced Reflection use cases:  
+  - Execution-time logging  
+  - JSON generation  
+  - Dependency injection simulation  
+- Solved scenario-based problems and committed all work
+ 
+🔗 Reference Code
+[View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/annotations)
+  
+  
+
 
 
 
