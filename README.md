@@ -79,5 +79,25 @@ Java Collection Practice
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/streams)
 
+---
+
+## Day 4 – Exception Handling  
+**(Date: 20-Jan-2026)**
+
+### 📌 What I Worked On
+- Studied Java exception handling concepts and exception hierarchy
+- Differentiated between checked and unchecked exceptions
+- Implemented `try`, `catch`, `finally`, and multiple catch blocks
+- Practiced handling common runtime exceptions
+- Used nested try-catch for granular error handling
+- Applied `throw` and `throws` for exception creation and propagation
+- Designed and implemented custom exceptions for business rules
+- Used try-with-resources for automatic resource management
+- Solved scenario-based exception handling problems
+- Committed and pushed all work
+
+🔗 Reference Code
+[View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/exceptions)
+
 
 
