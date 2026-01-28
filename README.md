@@ -454,12 +454,29 @@ BridgeLabz-Training/
 
 ---
 
-### Day 4 -  DSA And Collections Framework
-**Date:** 21-Jan-2026
-- Solved 2 scenario-Based DSA problems on sorting
-- Committed and pushed solutions to the repository.
+### Day 4- Annotations, Reflection & DSA Scenario-Based Practice  
+**Date:** 22-Jan-2026
+- Studied Java annotations and their practical usage
+- Implemented standard annotations (`@Override`, `@Deprecated`, `@SuppressWarnings`)
+- Created custom and repeatable annotations with attributes
+- Retrieved annotation metadata at runtime using Reflection API
+- Applied annotations for validation and role-based access control
+- Built annotation-driven utilities (JSON mapping, caching)
+- Practiced Java Reflection fundamentals:
+  - Inspecting classes, fields, methods, and constructors
+  - Dynamic object creation and method invocation
+  - Accessing private and static members
+- Implemented advanced Reflection use cases:
+  - Execution-time logging
+  - JSON generation
+  - Dependency injection simulation
+- Solved DSA scenario-based problems using tree data structures
+- Implemented real-world scenarios using AVL Trees (leaderboard, ticket booking, queue management)
+- Committed and pushed all solutions to the repository
+
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/annotations)
 
 
 ---
