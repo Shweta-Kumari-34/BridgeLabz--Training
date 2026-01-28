@@ -23,7 +23,7 @@ Java Collection Practice
 [Generics](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/generics)
 
 ---
-#### Week 5: Java Collections Framework & Problem Solving
+### Week 5: Java Collections Framework & Problem Solving
 ---
 ## Day 2 – Java Collections Framework (List, Set, Queue & Map)  
 **(Date: 16-Jan-2026)**
