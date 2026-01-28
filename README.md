@@ -414,7 +414,7 @@ BridgeLabz-Training/
   
 ---
 
-### Day2- DSA Scenario-Based Practice & Exception Handling  
+### Day 2- DSA Scenario-Based Practice & Exception Handling  
 **Date:** 20-Jan-2026
 - Solved scenario-based DSA problems focused on sorting use cases
 - Implemented real-world scenarios like theater listings, customer footfall sorting, and ranking systems
@@ -434,14 +434,23 @@ BridgeLabz-Training/
 
 ---
 
-### Day 3 -  DSA And Collections Framework
-**Date:** 20-Jan-2026
-- Solved two scenario based questions of dsa-question-practice 
-- All the 3 problems involved the use of Sorting algorithms [ merge, insertion].
-- Learnt how to use efficient sorting.
-- Committed and pushed solutions to the repository.
+### Day 3 - Regex, JUnit Testing & DSA Scenario-Based Practice 
+**Date:** 21-Jan-2026
+- Worked with Java Regular Expressions using `java.util.regex`
+- Used `Pattern` and `Matcher` classes with metacharacters and quantifiers
+- Implemented regex-based validations for email, password, and phone numbers
+- Applied regex operations: `find()`, `matches()`, `replaceAll()`
+- Extracted structured data such as dates, hashtags, and domain names
+- Learned JUnit fundamentals and testing lifecycle
+- Used JUnit 5 annotations and implemented parameterized, repeated, and exception tests
+- Applied assertion APIs and followed Arrange–Act–Assert (AAA) testing pattern
+- Solved DSA scenario-based problems using sorting algorithms:
+- Solved Binary Search Tree–based scenarios for record and inventory management
+- Committed and pushed all solutions to the repository
+
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- [Regex & JUnit](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/regex)
 
 ---
 
