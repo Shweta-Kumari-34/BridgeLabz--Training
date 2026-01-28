@@ -478,15 +478,24 @@ BridgeLabz-Training/
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 - [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/annotations)
 
-
 ---
   
-### Day 5 -  DSA And Collections Framework
-**Date:** 22-Jan-2026
-- Solved 2 scenario-Based DSA problems on sorting
-- Committed and pushed solutions to the repository.
+### Day 5 - Collections Scenario-Based Practice & CSV Data Handling (Java I/O)  
+**Date:** 23-Jan-2026
+- Solved multiple scenario-based problems focused on logical thinking and real-world problem solving
+- Studied CSV structure and common real-world use cases
+- Read CSV files using `BufferedReader` and OpenCSV (`CSVReader`)
+- Wrote CSV data using `BufferedWriter` and OpenCSV (`CSVWriter`)
+- Parsed CSV records and mapped data to Java objects
+- Applied numeric and regex-based data validation
+- Performed filtering, searching, updating, sorting, and merging of CSV data
+- Handled large CSV files efficiently using chunk-based processing
+- Generated reports and exported structured CSV output
+- Solved practice problems and committed all work
+
 - code link:
-- [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
+- [CSV Data Handling](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/csvdatahandling)
 
 
   
