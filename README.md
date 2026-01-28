@@ -377,12 +377,16 @@ BridgeLabz-Training/
 
 ### Day 6 -  DSA And Graph Data Structure And Collections Framework
 **Date:** 17-Jan-2026
-- Solved four scenario based questions of dsa-question-practice 
-- All the 4 problems involved the use of Sorting algorithms [ bubble, Insertion and quick].
-- Learnt how to use efficient sorting.
-- Committed and pushed solutions to the repository.
+- Solved 6 scenario-based problems focused on real-world problem solving.
+- Sorting algorithm–based scenarios (4):
+- Sort Artists by Registration Time, Vehicle Maintenance Scheduler
+- Auto-Sort Borrowed Books, Sorting Flavors by Popularity
+- OOPscenario-based problems (2):
+- GeoMeasure Solutions, Bag-n-Ball Organizer
+- All solutions committed and pushed to the repository.
 - code link:
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+- [OOPs-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-oops-practice/java-oops-practice/scenario-based/oops_scenario_based_question/src)
   
 ---
 ### Week 6 : OOPs Scenario-Based, DSA, And Java Collection 
@@ -428,9 +432,9 @@ BridgeLabz-Training/
 - [DSA-Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
 
 
-  ---
+---
   
-  ### Day 5 -  DSA And Collections Framework
+### Day 5 -  DSA And Collections Framework
 **Date:** 22-Jan-2026
 - Solved 2 scenario-Based DSA problems on sorting
 - Committed and pushed solutions to the repository.
