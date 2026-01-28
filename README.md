@@ -1,5 +1,5 @@
-# BridgeLabz Training
-## Java I/O Streams
+BridgeLabz Training
+Java I/O Streams
 ---
 ###  Week 6 : Introduction to I/O Streams
 
@@ -22,5 +22,6 @@
 - Handled large CSV files efficiently using chunk-based processing
 - Generated reports and exported structured CSV output
 - Solved practice problems and committed all work
+  
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/csvdatahandling)
