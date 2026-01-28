@@ -158,6 +158,7 @@ Java Collection Practice
 ---
 
 ## Section B: Scenario-Based Problems Progress  
+---
 
 ### Day 6– Scenario-Based Practice  
 **(Date: 23-Jan-2026)**  
@@ -178,7 +179,8 @@ Java Collection Practice
 ### 📌 What I Worked On
 - Solved **5 scenario-based problems**  
 - Focused on **logical thinking** and **real-world problem solving**  
-- Committed and pushed all solutions  
+- Committed and pushed all solutions
+  
 🔗 Reference Code
 [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)  
 
