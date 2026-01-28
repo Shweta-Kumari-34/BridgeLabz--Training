@@ -185,7 +185,7 @@ DSA Question Practice
 
 ---
 
-### Day 3-DSA Scenario Based Questions 
+### Day 3-DSA Scenario Based Questions
 **(Date: 21-Jan-2026)**
 - Solved two scenario based questions based on sorting algorithms
 - TailorShop – Sorting Orders by Delivery Deadline, MedWarehouse – Sorting Medicines by Expiry
@@ -196,6 +196,21 @@ DSA Question Practice
   
 🔗 Code Link:
 [Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+---
+
+### Day 4-DSA Scenario Based Questions 
+**(Date: 22-Jan-2026)**
+- Solved three scenario based questions based on tree data structure
+- Gaming App - Real-Time Leaderboard, Online Ticket Booking by Time, Hospital Queue Management
+- Problem based on AVL Tree
+- University's Digital Record System,  E-Commerce Product Inventory,  Music App 
+- Committed and pushed solutions to the repository.
+  
+🔗 Code Link:
+[Scenario-Based](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dsa-question-practice/dsa-question-practice/scenario_based/DSAScenarioBasedQuestion/src/sortingAlgorithms)
+
+
 
 
 
