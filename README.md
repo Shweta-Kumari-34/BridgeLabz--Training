@@ -416,7 +416,6 @@ BridgeLabz-Training/
 
 ### Day2- DSA Scenario-Based Practice & Exception Handling  
 **Date:** 20-Jan-2026
-
 - Solved scenario-based DSA problems focused on sorting use cases
 - Implemented real-world scenarios like theater listings, customer footfall sorting, and ranking systems
 - Applied sorting algorithms:
