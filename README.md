@@ -2,7 +2,7 @@
 
 Java I/O Streams
 ---
-###  Week 6 : Introduction to I/O Streams
+###  Week 6 : Introduction To I/O Streams
 
 ---
 
