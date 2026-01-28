@@ -99,5 +99,32 @@ Java Collection Practice
 🔗 Reference Code
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/exceptions)
 
+---
+
+## Day 5 – Regex & JUnit Testing  
+**(Date: 21-Jan-2026)**
+
+### 📌 What I Worked On
+- Studied Java Regular Expressions and `java.util.regex` API
+- Worked with `Pattern` and `Matcher` classes
+- Practiced regex metacharacters and quantifiers
+- Implemented regex-based validations:
+  - Email addresses
+  - Password strength
+  - Phone numbers
+- Used regex operations: `find()`, `matches()`, `replaceAll()`
+- Extracted structured data (dates, hashtags, domain names)
+- Learned JUnit fundamentals and testing lifecycle
+- Used JUnit 5 annotations (`@Test`, `@BeforeEach`, `@AfterEach`, `@BeforeAll`, `@AfterAll`)
+- Implemented parameterized tests, repeated tests, and exception testing using `assertThrows`
+- Applied assertion APIs (`assertEquals`, `assertTrue`, `assertAll`)
+- Followed Arrange–Act–Assert (AAA) testing pattern
+- Created structured test classes and automated test execution
+- Committed and pushed all work
+  
+🔗 Reference Code
+[View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionPractice/src/regex)
+
+
 
 
