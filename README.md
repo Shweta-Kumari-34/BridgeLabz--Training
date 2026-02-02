@@ -19,3 +19,28 @@ Java8 Programming Practice
 🔗 Code Link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/lambdaexpressions)
 
+---
+
+## Day 2 – Lambda Expressions, Method References & Interfaces 
+**(Date: 28-Jan-2026)**
+
+### 📌 What I Worked On
+(Date: 28-Jan-2026)
+- Mastered **Java Stream API** core concepts and the mechanics of **Lazy Evaluation**
+- Practiced diverse stream initialization using Collections, Arrays, and Static Generators
+- Leveraged **Intermediate Operations** to transform data:
+    * `filter`, `map`, `flatMap`, `sorted`, `distinct`, `limit`
+- Utilized **Terminal Operations** to produce results:
+    * `collect`, `forEach`, `reduce`, `count`, `findFirst`
+- Explored advanced data aggregation with **Collectors**:
+    * `toList`, `toSet`, `joining`, `groupingBy`, `partitioningBy`, `summarizingInt`
+- Evaluated **Parallel Streams** for multi-threaded processing and performance optimization
+- Developed a **Functional Programming Mini-Project**:
+    * Managed appointment data through custom filtering, grouping, and multi-level sorting
+- Solved comprehensive practice challenges and committed all workshop materials
+  
+🔗 Code Link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
+
+
+
