@@ -390,10 +390,6 @@ BridgeLabz-Training/
   
 ---
 ### Week 6 : OOPs Scenario-Based, DSA, And Java Collection 
----
-### Day 1- Scenario-Based Of DSA, OOPs & Java I/O Practice  
-**Date:** 19-Jan-2026
-
 - Solved multiple scenario-based problems focused on real-world use cases
 - Worked on sorting algorithm–based problems:
   - Rank Sheet Generation, Product Sorting by Discount
@@ -509,6 +505,28 @@ BridgeLabz-Training/
 - code link:
 - [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)
 - [JSON Data](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/jsondata)
+
+---
+
+### Week 7 : Java8 Features & Streams
+---
+### Day 1  - Lambda Expressions, Functional Interfaces and Scenario based Problem
+**Date: 27-Jan-2026)**
+
+## 📌 What I Worked On
+- Explored the core philosophy of **Java 8** and the shift toward **Functional Programming**
+- Mastered **Lambda Expression** syntax, including type inference and target typing
+- Architected custom **Functional Interfaces** and leveraged built-in types:
+    - `Predicate`, `Function`, `Consumer`, `Supplier`
+- Implemented **Method References** across all four categories:
+    - Static, Instance (Specific/Arbitrary), and Constructor references
+- Applied industry-standard **Java 8 Best Practices** for cleaner, more readable code
+- Conducted deep-dive practice sessions and committed all functional implementations
+
+- [Scenario-Based Problems]()
+- [Java8](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/lambdaexpressions)
+
+  
 
 
 
