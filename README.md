@@ -522,9 +522,31 @@ BridgeLabz-Training/
     - Static, Instance (Specific/Arbitrary), and Constructor references
 - Applied industry-standard **Java 8 Best Practices** for cleaner, more readable code
 - Conducted deep-dive practice sessions and committed all functional implementations
-
+- code link:
 - [Scenario-Based Problems]()
 - [Java8](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/lambdaexpressions)
+
+---
+### Day 2  - Java Stream API & Functional Programming
+**(Date: 28-Jan-2026)**
+
+## 📌 What I Worked On
+- Mastered **Java Stream API** core concepts, including **Lazy Evaluation** and pipeline mechanics
+- Practiced diverse stream initialization using Collections, Arrays, and Static Generators
+- Leveraged **Intermediate Operations** to transform data:
+    - `filter`, `map`, `flatMap`, `sorted`, `distinct`, `limit`
+- Utilized **Terminal Operations** to produce final results:
+    - `collect`, `forEach`, `reduce`, `count`, `findFirst`
+- Explored advanced data aggregation with specialized **Collectors**:
+    - `groupingBy`, `partitioningBy`, `summarizingInt`, `joining`
+- Evaluated **Parallel Streams** to understand multi-threaded processing and performance trade-offs
+- Workshop Project: Smart City Transport & Service Management System
+   - Developed a modern management system leveraging Java 8 functional paradigms 
+- Committed and pushed all solutions to the repository
+- code link:
+- [Java8](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/lambdaexpressions)
+- [Project]()
+
 
   
 
