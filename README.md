@@ -184,20 +184,6 @@ Java Collection Practice
 🔗 Reference Code
 [Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)  
 
----
-### Week 7: Java Collections Framework & Problem Solving
----
-## Day 1 – Scenario-Based Practice 
-**(Date: 27-Jan-2026)**
-
-### 📌 What I Worked On
-- Solved **3 scenario-based problems**
-- `HealthCheckPro`, `MarkMate`, `EventTracker`
-- Focused on **logical thinking** and **real-world problem solving**
-- Committed and pushed all solutions
-  
-🔗 Reference Code
-[Scenario-Based Problems](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarios/src)  
 
  
 
