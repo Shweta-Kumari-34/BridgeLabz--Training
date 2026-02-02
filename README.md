@@ -45,3 +45,20 @@ Java I/O Streams
 🔗 Reference Link
 [View Source Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/main/java/com/jsondata)
 
+---
+
+### Week 7: Scenario-based problems involving Annotations,Reflection, CSV & JSON data handling
+---
+## Day 1 – Scenario-Based Practice 
+**(Date: 27-Jan-2026)**
+
+### 📌 What I Worked On
+- Solved **3 scenario-based problems**
+- `HealthCheckPro`, `MarkMate`, `EventTracker`
+- Focused on **logical thinking** and **real-world problem solving**
+- Committed and pushed all solutions
+  
+🔗 Reference Code
+[Scenario-Based Problems]()  
+
+
