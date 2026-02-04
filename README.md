@@ -29,5 +29,6 @@ Java8 Programming Practice
     - Analyzed patterns using **UML Diagrams** and real-world analogies
 - **Practical Application:**
     - Solved pattern-based architectural exercises and mini-design problems
+      
 🔗 Code Link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
