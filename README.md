@@ -549,9 +549,9 @@ BridgeLabz-Training/
 
 ---
 
-# 📂 Week 8: Design Patterns & Architecture
+# Week 7: Design Patterns & Architecture
 --
-### Day 1   - Standard Design Patterns And Design Principle
+### Day 3   - Standard Design Patterns And Design Principle
 **(Date: 31-Jan-2026)** 
 
 ## 📌 What I Worked On
@@ -564,6 +564,20 @@ BridgeLabz-Training/
 - code link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
 
+---
+
+Day 1 – Multithreading in Java
+(Date: 02-Feb-2026)
+
+## 📌 What I Worked On
+- **Thread Fundamentals:** Mastered the **JVM Thread Lifecycle** (New to Terminated) and implemented threads via `Runnable` and `Thread` classes.
+- **Execution Control:** Leveraged `join()`, `sleep()`, and `yield()` to orchestrate complex thread interactions and managed **Daemon threads**.
+- **Data Safety:** Applied **Synchronization** to protect shared resources, effectively preventing Race Conditions and Deadlocks.
+- **Performance Engineering:** Benchmarked **Single vs. Multi-threaded** payroll processing, achieving significant speed improvements.
+- **Verification:** Validated thread-safe database operations using **JUnit** and logged execution metrics.
+- 
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
   
 
