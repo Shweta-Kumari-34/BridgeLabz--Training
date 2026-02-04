@@ -40,6 +40,7 @@ Java8 Programming Practice
   
 🔗 Code Link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
+[Project](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/workshopprogram/smartcity)
 
 
 
