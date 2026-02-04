@@ -24,7 +24,7 @@ Java8 Programming Practice
 ## Day 2 – Lambda Expressions, Method References & Interfaces 
 **(Date: 28-Jan-2026)**
 ### 📌 What I Worked On
-(Date: 2-Feb-2026)
+
 - Mastered **Java Stream API** core concepts and the mechanics of **Lazy Evaluation**
 - Practiced diverse stream initialization using Collections, Arrays, and Static Generators
 - Leveraged **Intermediate Operations** to transform data:
@@ -39,7 +39,7 @@ Java8 Programming Practice
 - Solved comprehensive practice challenges and committed all workshop materials
   
 🔗 Code Link:
-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/collectors)
 
 
 
