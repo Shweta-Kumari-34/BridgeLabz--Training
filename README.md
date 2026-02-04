@@ -545,7 +545,24 @@ BridgeLabz-Training/
 - Committed and pushed all solutions to the repository
 - code link:
 - [Java8](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/lambdaexpressions)
-- [Project]()
+- [Project](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com/workshopprogram/smartcity)
+
+---
+
+# 📂 Week 8: Design Patterns & Architecture
+--
+### Day 1   - Standard Design Patterns And Design Principle
+**(Date: 31-Jan-2026)** 
+
+## 📌 What I Worked On
+- **SOLID Principles:** Mastered SRP, OCP, LSP, ISP, and DIP to build decoupled and scalable systems.
+- **Clean Code (Object Calisthenics):** Applied strict rules like one level of indentation and "one dot per line" for maximum maintainability.
+- **Design Philosophies:** Prioritized **Composition over Inheritance** and followed DRY, KISS, and YAGNI.
+- **GoF Design Patterns:** Implemented **Singleton, Factory, Builder** (Creational) and **Observer** (Behavioral) patterns.
+- **Practical Design:** Analyzed UML diagrams and solved architectural mini-problems to bridge theory and code.
+
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
 
 
   
