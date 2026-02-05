@@ -560,7 +560,6 @@ BridgeLabz-Training/
 - **Design Philosophies:** Prioritized **Composition over Inheritance** and followed DRY, KISS, and YAGNI.
 - **GoF Design Patterns:** Implemented **Singleton, Factory, Builder** (Creational) and **Observer** (Behavioral) patterns.
 - **Practical Design:** Analyzed UML diagrams and solved architectural mini-problems to bridge theory and code.
-
 - code link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples/librarycasestudy)
 
@@ -576,12 +575,26 @@ BridgeLabz-Training/
 - **Execution Control:** Leveraged `join()`, `sleep()`, and `yield()` to orchestrate complex thread interactions and managed **Daemon threads**.
 - **Data Safety:** Applied **Synchronization** to protect shared resources, effectively preventing Race Conditions and Deadlocks.
 - **Performance Engineering:** Benchmarked **Single vs. Multi-threaded** payroll processing, achieving significant speed improvements.
-- **Verification:** Validated thread-safe database operations using **JUnit** and logged execution metrics.
-  
+- **Verification:** Validated thread-safe database operations using **JUnit** and logged execution metrics. 
 - code link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
-  
+---
+
+### Day 3 – Multithreading: Practice & Problem Solving
+**(Date: 02-Feb-2026)**
+
+## 📌  What I Worked On
+- **Deepened Knowledge:** Moved beyond theory to master core concepts like the **Thread Lifecycle** and **Concurrency**.
+- **Solved Challenges:** Practiced several problems to handle **Race Conditions** and prevent **Deadlocks**.
+- **Key Implementations:**
+    - Used `synchronized` to keep shared data safe.
+    - Managed thread flow using `join()`, `sleep()`, and `start()`.
+    - Compared **Single vs. Multi-threaded** performance for bulk data tasks.
+- **Results:** Pushed all solutions and verified thread safety using **JUnit** tests.
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
 
 
 
