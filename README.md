@@ -582,7 +582,7 @@ BridgeLabz-Training/
 ---
 
 ### Day 3 – Multithreading: Practice & Problem Solving
-**(Date: 02-Feb-2026)**
+**(Date: 05-Feb-2026)**
 
 ## 📌  What I Worked On
 - **Deepened Knowledge:** Moved beyond theory to master core concepts like the **Thread Lifecycle** and **Concurrency**.
