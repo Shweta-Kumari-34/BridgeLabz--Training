@@ -390,6 +390,8 @@ BridgeLabz-Training/
   
 ---
 ### Week 6 : OOPs Scenario-Based, DSA, And Java Collection 
+### Day 1 -  Scenario Based Problem, Java I/O Streams
+**Date:** 19-Jan-2026
 - Solved multiple scenario-based problems focused on real-world use cases
 - Worked on sorting algorithm–based problems:
   - Rank Sheet Generation, Product Sorting by Discount
