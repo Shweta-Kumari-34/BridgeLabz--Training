@@ -551,6 +551,32 @@ BridgeLabz-Training/
 
 ---
 
+### Day 3  - Date & Time API, Method Reference, Constructor Reference
+**(Date: 29-Jan-2026)**
+
+### 📌 What I Worked On
+- Deepened understanding of **Java 8 core concepts**
+- Studied modern Java features introduced in Java 8
+- Learned **Date and Time API (`java.time` package)** and its advantages over old `Date` and `Calendar`
+- Worked with:
+  - `LocalDate`, `LocalTime`, `LocalDateTime`
+  - `ZonedDateTime`
+  - `Period` and `Duration`
+- Performed date and time operations such as:
+  - Fetching current date and time
+  - Parsing and formatting dates
+  - Adding and subtracting date/time values
+- Understood immutability and thread-safety of Java 8 Date & Time API
+- Studied **method references** and their usage to simplify lambda expressions:
+  - Static method reference (`ClassName::methodName`)
+  - Instance method reference (`object::methodName`)
+  - Instance method of an arbitrary object (`ClassName::methodName`)
+- Learned **constructor references** (`ClassName::new`) for object creation
+- Implemented method and constructor references using functional interfaces
+- Practiced hands-on examples to improve code readability and reduce boilerplate
+- Solved real-time examples and committed all work
+
+
 # Week 7: Design Patterns & Architecture
 ---
 ### Day 3   - Standard Design Patterns And Design Principle
@@ -596,6 +622,36 @@ BridgeLabz-Training/
 - **Results:** Pushed all solutions and verified thread safety using **JUnit** tests.
 - code link:
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+---
+
+### Day 4 – SQL & MySQL – Query Language, Commands, and Indexing
+**(Date: 06-Feb-2026)**
+
+### 📌 What I Worked On
+- Studied **SQL** and **MySQL** and understood the difference between them
+- Learned that **SQL** is a standard query language, while **MySQL** is a relational database management system (RDBMS)
+- Understood the role of SQL in communicating with databases
+- Studied different types of **SQL commands**:
+  - DDL (CREATE, ALTER, DROP, TRUNCATE)
+  - DML (INSERT, UPDATE, DELETE)
+  - DQL (SELECT)
+  - DCL (GRANT, REVOKE)
+  - TCL (COMMIT, ROLLBACK, SAVEPOINT)
+- Practiced writing SQL queries using:
+  - SELECT, WHERE, ORDER BY, GROUP BY, HAVING
+  - JOINs (INNER, LEFT, RIGHT)
+  - Subqueries
+- Learned about **indexes** and their purpose in databases
+- Understood how indexing improves query performance
+- Studied different types of indexes in MySQL:
+  - Primary Index
+  - Unique Index
+  - Composite Index
+- Explored use cases, advantages, and limitations of indexing
+- Solved practical examples and committed all work
+- code link:
+[Reference Code]()
 
 
 
