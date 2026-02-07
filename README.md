@@ -659,32 +659,13 @@ BridgeLabz-Training/
 **(Date: 06-Feb-2026)**
 
 ### 📌 What I Worked On
-- Studied the concept of **SQL Indexing** and its importance in database performance
-- Understood how indexes improve query speed by reducing full table scans
-- Learned different types of indexes:
-  - Primary Index
-  - Unique Index
-  - Composite Index
-  - Single-column and Multi-column Index
-- Understood how indexing works internally using B-Tree structure
-- Explored advantages and limitations of indexing
-- Practiced creating and removing indexes using:
-  - CREATE INDEX
-  - DROP INDEX
-- Learned how improper indexing can affect INSERT, UPDATE, and DELETE performance
-
-- Studied different types of **SQL Joins**
-- Understood how joins combine data from multiple tables using related columns
-- Practiced:
-  - INNER JOIN
-  - LEFT JOIN
-  - RIGHT JOIN
-  - FULL JOIN
-  - SELF JOIN
-- Learned how joins work using primary key and foreign key relationships
-- Wrote queries combining multiple joins with WHERE, GROUP BY, and ORDER BY
-- Solved practical examples to understand real-world use cases
-- Committed all practice work
+- Studied **SQL indexing** and its importance in improving query performance
+- Learned different types of indexes such as primary, unique, and composite indexes
+- Understood how indexes reduce full table scans and speed up data retrieval
+- Practiced creating and removing indexes
+- Studied **SQL joins** and how they combine data from multiple tables
+- Learned and practiced INNER, LEFT, RIGHT, FULL, and SELF joins
+- Wrote queries using joins with primary and foreign key relationships
 - code link:
 [Reference Code]()
 
