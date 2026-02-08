@@ -1,0 +1,95 @@
+ CREATE TABLE employee (
+     employee_id INT PRIMARY KEY AUTO_INCREMENT,
+     name VARCHAR(50) NOT NULL,
+     salary DECIMAL(10,2) NOT NULL,
+     department VARCHAR(40)
+     );
+Query OK, 0 rows affected (0.03 sec)
+
+===============================================================
+
+                         Add Employee
+
+===============================================================
+mysql> INSERT INTO employee (name, salary, department) VALUES
+     ('Rahul Sharma', 52000, 'Operations'),
+     ('Priya Verma', 58000, 'HR'),
+     ('Amit Kumar', 65000, 'Training'),
+     ('Neha Singh', 60000, 'Finance'),
+     ('Rohit Mehta', 70000, 'Security');
+Query OK, 5 rows affected (0.13 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+=================================================================
+
+                      Update Employee Salary
+
+==================================================================
+mysql> UPDATE employee
+     SET salary = 75000
+     WHERE name = 'Amit Kumar';
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+=================================================================
+                         Delete Employee
+
+==================================================================
+mysql> DELETE FROM employee
+     WHERE name = 'Rahul Sharma';
+Query OK, 1 row affected (0.01 sec)
+
+=================================================================
+
+                      Search Employee by Name
+
+=================================================================
+mysql> SELECT * FROM employee
+     WHERE name LIKE '%Singh%';
++-------------+------------+----------+------------+
+| employee_id | name       | salary   | department |
++-------------+------------+----------+------------+
+|           4 | Neha Singh | 60000.00 | Finance    |
++-------------+------------+----------+------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT * FROM employee;
++-------------+-------------+----------+------------+
+| employee_id | name        | salary   | department |
++-------------+-------------+----------+------------+
+|           2 | Priya Verma | 58000.00 | HR         |
+|           3 | Amit Kumar  | 75000.00 | Training   |
+|           4 | Neha Singh  | 60000.00 | Finance    |
+|           5 | Rohit Mehta | 70000.00 | Security   |
++-------------+-------------+----------+------------+
+4 rows in set (0.00 sec)
+
+mysql> SELECT COUNT(*) AS total_employees
+     FROM employee;
++-----------------+
+| total_employees |
++-----------------+
+|               4 |
++-----------------+
+1 row in set (0.03 sec)
+
+
+=============================================================
+
+             Average Salary by Department
+
+==============================================================
+mysql> SELECT department, AVG(salary) AS avg_salary
+     FROM employee
+     GROUP BY department;
++------------+--------------+
+| department | avg_salary   |
++------------+--------------+
+| HR         | 58000.000000 |
+| Training   | 75000.000000 |
+| Finance    | 60000.000000 |
+| Security   | 70000.000000 |
++------------+--------------+
+4 rows in set (0.01 sec)
+
+mysql>
