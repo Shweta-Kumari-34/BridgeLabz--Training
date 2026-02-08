@@ -32,3 +32,17 @@
 - Committed and pushed all work  
 🔗 **Code Link:** [SQL & JDBC Practice](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql/crudapplication)
 
+---
+ 
+###  Day 7 – Scenario-Based Practice  
+**(Date: 07-Feb-2026)**  
+
+### 📌 What I Worked On
+- Solved **6 scenario-based problems** with a focus on logical reasoning and real-world problem solving.
+- Applied SQL concepts and structured query approaches to design efficient solutions.
+- Reviewed and refined logic for accuracy and performance.
+- Committed and pushed all implemented solutions.
+
+🔗 **Code Links:**  [SQL & JDBC Practice]()
+
+
