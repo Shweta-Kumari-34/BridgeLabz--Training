@@ -682,6 +682,22 @@ BridgeLabz-Training/
 - code link:
 [Reference Code]()
 
+---
+
+# Week 9: JDBC And MySQL
+---
+### Day 1 – MySQL Scenario Based, JDBC Concepts
+**(Date: 09-Feb-2026)**
+
+### 📌 What I Worked On
+- Solved MySQL scenario-based problems (joins, subqueries, indexing, optimization).
+- Implemented JDBC connectivity between Java and MySQL.
+- Used Statement, PreparedStatement, ResultSet, and transaction handling.
+- Committed and pushed all solutions.
+- 
+🔗 Code Link: [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+
+
 
 
 
