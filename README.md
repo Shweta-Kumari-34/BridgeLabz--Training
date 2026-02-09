@@ -694,7 +694,6 @@ BridgeLabz-Training/
 - Implemented JDBC connectivity between Java and MySQL.
 - Used Statement, PreparedStatement, ResultSet, and transaction handling.
 - Committed and pushed all solutions.
-- 
 🔗 Code Link: [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
 
