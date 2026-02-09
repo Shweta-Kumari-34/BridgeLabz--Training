@@ -609,8 +609,8 @@ BridgeLabz-Training/
 
 ---
 
-### Day 3 – Multithreading: Practice & Problem Solving
-**(Date: 05-Feb-2026)**
+### Day 4 – Multithreading: Practice & Problem Solving
+**(Date: 04-Feb-2026)**
 
 ## 📌  What I Worked On
 - **Deepened Knowledge:** Moved beyond theory to master core concepts like the **Thread Lifecycle** and **Concurrency**.
@@ -625,8 +625,8 @@ BridgeLabz-Training/
 
 ---
 
-### Day 4 – SQL & MySQL – Query Language, Commands, and Indexing
-**(Date: 06-Feb-2026)**
+### Day 5 – SQL & MySQL – Query Language, Commands, and Indexing
+**(Date: 05-Feb-2026)**
 
 ### 📌 What I Worked On
 - Studied **SQL** and **MySQL** and understood the difference between them
@@ -655,7 +655,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 4 SQL – Indexing and Joins
+### Day 6 SQL – Indexing and Joins
 **(Date: 06-Feb-2026)**
 
 ### 📌 What I Worked On
@@ -668,6 +668,20 @@ BridgeLabz-Training/
 - Wrote queries using joins with primary and foreign key relationships
 - code link:
 [Reference Code]()
+
+---
+
+###  Day 7 – Scenario-Based Practice  
+**(Date: 07-Feb-2026)**  
+
+### 📌 What I Worked On
+- Solved **6 scenario-based problems** with a focus on logical reasoning and real-world problem solving.
+- Applied SQL concepts and structured query approaches to design efficient solutions.
+- Reviewed and refined logic for accuracy and performance.
+- Committed and pushed all implemented solutions.
+- code link:
+[Reference Code]()
+
 
 
 
