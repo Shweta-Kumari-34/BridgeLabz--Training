@@ -575,7 +575,21 @@ BridgeLabz-Training/
 - Implemented method and constructor references using functional interfaces
 - Practiced hands-on examples to improve code readability and reduce boilerplate
 - Solved real-time examples and committed all work
-
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com).
+ 
+---
+ 
+###  Day 4 – Java 8 Revision & Deep Dive  
+**(Date: 30-Jan-2026)**
+- Built strong understanding of Java 8 core features.
+- Revised Streams, Collectors, Functional Interfaces, and Lambda expressions.
+- Studied internal working of Streams (pipeline, lazy evaluation, intermediate & terminal operations).
+- Practiced map() transformation and Function interface usage.
+- Applied Collectors for grouping, mapping, and reducing operations.
+- Committed and pushed all practice work.
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Features/src/com).
 
 # Week 7: Design Patterns & Architecture
 ---
@@ -608,8 +622,22 @@ BridgeLabz-Training/
 [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
 
 ---
+  
+###  Day 2 – Multithreading Working Flow & Use Cases  
+**(Date: 03-Feb-2026)**
 
-### Day 4 – Multithreading: Practice & Problem Solving
+- Built strong understanding of multithreading concepts in Java.
+- Studied thread lifecycle and internal working flow (New, Runnable, Running, Waiting, Terminated).
+- Learned thread creation using Thread class and Runnable interface.
+- Explored synchronization, race conditions, and thread safety.
+- Understood Executor Framework and thread pool usage.
+- Analyzed real-world use cases like file downloading, background processing, and concurrent task execution.
+- Implemented practical examples and committed all work.
+- code link:
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+
+
+### Day 3 – Multithreading: Practice & Problem Solving
 **(Date: 04-Feb-2026)**
 
 ## 📌  What I Worked On
@@ -625,7 +653,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5 – SQL & MySQL – Query Language, Commands, and Indexing
+### Day 4 – SQL & MySQL – Query Language, Commands, and Indexing
 **(Date: 05-Feb-2026)**
 
 ### 📌 What I Worked On
@@ -655,7 +683,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 6 SQL – Indexing and Joins
+### Day 5 SQL – Indexing and Joins
 **(Date: 06-Feb-2026)**
 
 ### 📌 What I Worked On
@@ -671,7 +699,7 @@ BridgeLabz-Training/
 
 ---
 
-###  Day 7 – Scenario-Based Practice  
+###  Day 6 – Scenario-Based Practice  
 **(Date: 07-Feb-2026)**  
 
 ### 📌 What I Worked On
@@ -694,10 +722,29 @@ BridgeLabz-Training/
 - Implemented JDBC connectivity between Java and MySQL.
 - Used Statement, PreparedStatement, ResultSet, and transaction handling.
 - Committed and pushed all solutions.
-  
-🔗 Code Link: [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+- Code Link:
+-  [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
+---
 
+##  JDBC & MySQL – Fundamentals & Database Connectivity  
+---
+### Day 2 – JDBC Revision & Database Connection  
+**(Date: 09-Feb-2026)**
+
+### 📌 What I Worked On
+- Revised MySQL and core database fundamentals.
+- Strengthened understanding of SQL commands, joins, indexing, and transactions.
+- Learned JDBC architecture and its role in Java–Database communication.
+- Implemented database connectivity using DriverManager and Connection.
+- Executed queries using Statement and PreparedStatement.
+- Handled ResultSet processing and transaction management.
+- Practiced exception handling and proper resource closing.
+- Committed and pushed all implementations.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+
+---
 
 
 
