@@ -493,7 +493,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 5- JSON Data Handling & Scenario-Based Practice  
+### Day 6- JSON Data Handling & Scenario-Based Practice  
 **Date:** 24-Jan-2026
 - Studied JSON structure and real-world use cases
 - Created JSON objects and arrays using Java libraries
@@ -593,7 +593,7 @@ BridgeLabz-Training/
 
 # Week 7: Design Patterns & Architecture
 ---
-### Day 3   - Standard Design Patterns And Design Principle
+### Day 5   - Standard Design Patterns And Design Principle
 **(Date: 31-Jan-2026)** 
 
 ## 📌 What I Worked On
@@ -730,7 +730,7 @@ BridgeLabz-Training/
 ##  JDBC & MySQL – Fundamentals & Database Connectivity  
 ---
 ### Day 2 – JDBC Revision & Database Connection  
-**(Date: 09-Feb-2026)**
+**(Date: 10-Feb-2026)**
 
 ### 📌 What I Worked On
 - Revised MySQL and core database fundamentals.
@@ -745,6 +745,43 @@ BridgeLabz-Training/
 -[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
 ---
+
+ 
+###  Day 3 – JDBC Concepts & Database Connectivity
+**(Date: 11-Feb-2026)**
+
+### 📌 What I Worked On
+
+- Studied JDBC architecture and its role in connecting Java applications with databases.
+- Learned complete JDBC workflow: load driver, establish connection, create statement, execute query, process ResultSet, and close resources.
+- Understood the three types of JDBC statements:
+  - Statement
+  - PreparedStatement
+  - CallableStatement
+- Compared their usage, performance, and security aspects.
+- Practiced database connectivity and query execution using different statement types.
+- Committed and pushed all practice work.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+
+---
+ 
+###  Day 4 – Practice & Concept Strengthening  
+**(Date: 12-Feb-2026)**
+
+### 📌 What I Worked On
+- Solved hands-on problem-solving exercises using JDBC.
+- Practiced database connectivity, query execution, and transaction handling.
+- Strengthened understanding of Statement and PreparedStatement usage.
+- Revised core Java 8 concepts including Streams, Collectors, Lambda expressions, and Functional Interfaces.
+- Reviewed internal working of stream operations and map transformations.
+- Committed and pushed all practice implementations.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+
+
+
+
 
 
 
