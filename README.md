@@ -779,6 +779,36 @@ BridgeLabz-Training/
 - Code Link:
 -[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
+--- 
+
+###  Day 5 – Backend & Core Java Strengthening  
+**(Date: 13-Feb-2026)**
+
+### 📌 What I Worked On
+- Practiced core JDBC concepts including connection setup, query execution, and transaction management.  
+- Implemented CRUD operations using Statement and PreparedStatement.  
+- Revised multithreading concepts including Thread class, Runnable interface, synchronization, and thread lifecycle.  
+- Practiced thread communication and concurrency control mechanisms.  
+- Reviewed core design principles including SOLID principles.  
+- Implemented common design patterns such as Singleton, Factory, and Strategy with proper code structure.  
+- Strengthened understanding of clean code practices and object-oriented design.  
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+
+
+###  Day 6 – Practice & Concept Strengthening
+**(Date: 14-Feb-2026)**
+
+### 📌 What I Worked On
+- Solved hands-on problem-solving exercises using JDBC.
+- Practiced database connectivity, query execution, and transaction handling.
+- Committed and pushed all practice implementations.
+- Revised core SQL concepts including joins, subqueries, and aggregate functions.
+- Strengthened understanding of Statement and PreparedStatement usage.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql)
+
+
 
 
 
