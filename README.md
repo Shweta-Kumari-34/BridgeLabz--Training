@@ -795,6 +795,7 @@ BridgeLabz-Training/
 - Code Link:
 -[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
+---
 
 ###  Day 6 – Practice & Concept Strengthening
 **(Date: 14-Feb-2026)**
