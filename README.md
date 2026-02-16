@@ -679,7 +679,7 @@ BridgeLabz-Training/
 - Explored use cases, advantages, and limitations of indexing
 - Solved practical examples and committed all work
 - code link:
-[Reference Code]()
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql)
 
 ---
 
@@ -695,7 +695,7 @@ BridgeLabz-Training/
 - Learned and practiced INNER, LEFT, RIGHT, FULL, and SELF joins
 - Wrote queries using joins with primary and foreign key relationships
 - code link:
-[Reference Code]()
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql)
 
 ---
 
@@ -708,7 +708,7 @@ BridgeLabz-Training/
 - Reviewed and refined logic for accuracy and performance.
 - Committed and pushed all implemented solutions.
 - code link:
-[Reference Code]()
+[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
 ---
 
@@ -723,7 +723,7 @@ BridgeLabz-Training/
 - Used Statement, PreparedStatement, ResultSet, and transaction handling.
 - Committed and pushed all solutions.
 - Code Link:
--  [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
+-  [Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/blob/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql/crudapplication/EmployeeManagementSystem.java)
 
 ---
 
