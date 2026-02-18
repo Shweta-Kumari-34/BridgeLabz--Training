@@ -809,6 +809,22 @@ BridgeLabz-Training/
 - Code Link:
 -[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/resources/com/dbmsjdbc/sql)
 
+---
+
+# Week 10: 
+---
+###  Day 1 – Implementation & Concurrency Strengthening
+**(Date: 14-Feb-2026)**
+
+### 📌 What I Worked On
+- Solved scenario-based problems using multithreading concepts.
+- Implemented thread creation using Runnable and Thread classes.
+- Practiced synchronization and thread communication.
+- Strengthened understanding of race conditions and thread safety.
+- Committed and pushed all implementations to the repository.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/src/com/banktransactions)
+
 
 
 
