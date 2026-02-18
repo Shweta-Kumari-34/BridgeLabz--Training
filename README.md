@@ -814,7 +814,7 @@ BridgeLabz-Training/
 # Week 10: 
 ---
 ###  Day 1 – Implementation & Concurrency Strengthening
-**(Date: 14-Feb-2026)**
+**(Date: 16-Feb-2026)**
 
 ### 📌 What I Worked On
 - Solved scenario-based problems using multithreading concepts.
@@ -825,6 +825,23 @@ BridgeLabz-Training/
 - Code Link:
 -[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/src/com/banktransactions)
 
+---
+
+
+###  Day 2 – Scenario-Based Problem Solving & Development
+**(Date: 17-Feb-2026)**
+
+### 📌 What I Worked On
+- Solved scenario-based problems using Java 8 (Streams, Lambda, Optional).
+- Practiced real-world exception handling strategies and custom exceptions.
+- Strengthened SQL problem-solving with joins, subqueries, and aggregations.
+- Implemented JDBC-based database connectivity and query execution.
+- Solved multithreading scenario-based problems focusing on synchronization and thread safety.
+- Created a new repository for the Quantity Measurement application for development.
+- Structured the project for scalable implementation.
+- Committed and pushed all practice code and project setup to the repository.
+- Code Link:
+-[Reference Code](https://github.com/Shweta-Kumari-34/BridgeLabz--Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/ScenarioPracticeDBMSJDBC/src/com/patientmanagementapp)
 
 
 
